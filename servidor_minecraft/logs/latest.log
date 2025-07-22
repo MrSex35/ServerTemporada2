@@ -657,3 +657,11 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [22Jul2025 04:28:54.304] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [22Jul2025 04:28:54.321] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [22Jul2025 04:29:54.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe burned to death
+[22Jul2025 04:37:23.494] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: GatekeeperEntity['Gatekeeper'/8048, l='ServerLevel[world]', x=-917.51, y=90.92, z=62.51]
+[22Jul2025 04:37:39.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[22Jul2025 04:39:53.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1189, y=78, z=315} BlockPos{x=-1189, y=76, z=316}
+[22Jul2025 04:39:53.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1189, y=78, z=315} BlockPos{x=-1189, y=76, z=316}
+[22Jul2025 04:39:53.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1188, y=78, z=316} BlockPos{x=-1189, y=76, z=316}
+[22Jul2025 04:39:53.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1188, y=78, z=316} BlockPos{x=-1189, y=76, z=316}
+[22Jul2025 04:39:53.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1188, y=78, z=316} BlockPos{x=-1189, y=76, z=316}
+[22Jul2025 04:42:03.425] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.474 ms. 5487/5648 recipes are parallelized.

@@ -7890,5 +7890,293 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/orange_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+    "criteria": {
+      "has_pink_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_toilet": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_pink_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_bath": {
+    "criteria": {
+      "has_orange_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_allium_petal_block": {
+    "criteria": {
+      "has_pink_allium": "2025-07-22 04:40:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_toilet": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_sink": {
+    "criteria": {
+      "has_orange_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_orange_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
+    "criteria": {
+      "has_pink_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-07-22 04:40:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_basin": {
+    "criteria": {
+      "has_pink_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_drawer": {
+    "criteria": {
+      "has_orange_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_basin": {
+    "criteria": {
+      "has_orange_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_pink_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_kitchen_cabinetry": {
+    "criteria": {
+      "has_orange_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/orange_toilet": {
+    "criteria": {
+      "has_orange_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_pink_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/orange_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:07 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+    "criteria": {
+      "has_pink_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-07-22 04:42:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
