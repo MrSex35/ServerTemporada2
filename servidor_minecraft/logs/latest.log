@@ -665,3 +665,5 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [22Jul2025 04:39:53.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1188, y=78, z=316} BlockPos{x=-1189, y=76, z=316}
 [22Jul2025 04:39:53.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1188, y=78, z=316} BlockPos{x=-1189, y=76, z=316}
 [22Jul2025 04:42:03.425] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.474 ms. 5487/5648 recipes are parallelized.
+[22Jul2025 05:04:38.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[22Jul2025 05:04:38.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
