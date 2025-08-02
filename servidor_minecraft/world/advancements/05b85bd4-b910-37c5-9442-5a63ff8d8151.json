@@ -6904,9 +6904,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_chestplate": {
+    "criteria": {
+      "soul_heart": "2025-08-02 19:01:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/horizonite_nugget_from_blasting_horizonite_boots": {
+    "criteria": {
+      "has_item": "2025-08-02 19:00:32 +0000"
+    },
+    "done": true
+  },
   "paraglider:all_vessels": {
     "criteria": {
       "code_triggered": "2025-08-02 18:08:34 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/horizonite_nugget_from_smelting_horizonite_boots": {
+    "criteria": {
+      "has_item": "2025-08-02 19:00:32 +0000"
     },
     "done": true
   },
