@@ -715,3 +715,16 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Aug2025 19:34:23.141] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
 [02Aug2025 19:34:23.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
 [02Aug2025 19:39:20.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Pray to the Goddess]
+[02Aug2025 19:45:42.742] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Aug2025 19:46:19.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 19:46:41.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 19:46:52.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 19:48:07.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 0.3533132693426069
+[02Aug2025 19:48:07.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 0.3731880640334566
+[02Aug2025 19:48:07.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 0.38944420015900505
+[02Aug2025 19:48:08.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 0.4046566396343678
+[02Aug2025 19:48:08.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 0.422961469996153
+[02Aug2025 19:48:08.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 0.45044541857146214
+[02Aug2025 19:48:08.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 1.081201527932535
+[02Aug2025 19:48:08.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 1.081201527932535
+[02Aug2025 19:48:08.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 0.45619192333174396
