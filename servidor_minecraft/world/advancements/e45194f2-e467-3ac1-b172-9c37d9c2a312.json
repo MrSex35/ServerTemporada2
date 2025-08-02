@@ -80,10 +80,12 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:cika_woods": "2025-07-15 00:15:00 +0000",
+      "biomeswevegone:windswept_desert": "2025-08-02 01:57:51 +0000",
       "biomeswevegone:crag_gardens": "2025-07-16 01:21:26 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-14 23:49:34 +0000",
       "biomeswevegone:temperate_grove": "2025-07-15 03:53:03 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-15 01:02:47 +0000",
+      "biomeswevegone:jacaranda_jungle": "2025-08-02 02:06:12 +0000",
       "biomeswevegone:lush_stacks": "2025-07-15 16:45:02 +0000",
       "biomeswevegone:coconino_meadow": "2025-08-02 01:37:42 +0000",
       "biomeswevegone:maple_taiga": "2025-07-15 00:23:59 +0000",
@@ -98,7 +100,9 @@
       "biomeswevegone:aspen_boreal": "2025-08-02 01:23:48 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-15 00:22:02 +0000",
       "biomeswevegone:skyrise_vale": "2025-07-16 16:07:16 +0000",
+      "biomeswevegone:dead_sea": "2025-08-02 01:58:00 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-15 01:01:54 +0000",
+      "biomeswevegone:tropical_rainforest": "2025-08-02 01:53:04 +0000",
       "biomeswevegone:baobab_savanna": "2025-08-02 01:28:29 +0000",
       "biomeswevegone:rainbow_beach": "2025-07-15 16:59:58 +0000"
     },
@@ -1434,9 +1438,13 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-15 17:09:36 +0000",
       "minecraft:taiga": "2025-07-16 16:34:05 +0000",
+      "minecraft:deep_ocean": "2025-08-02 02:29:06 +0000",
       "minecraft:cherry_grove": "2025-07-19 20:52:14 +0000",
       "minecraft:sunflower_plains": "2025-08-02 01:33:57 +0000",
+      "minecraft:bamboo_jungle": "2025-08-02 01:56:45 +0000",
+      "minecraft:wooded_badlands": "2025-08-02 01:57:09 +0000",
       "minecraft:beach": "2025-07-15 16:47:33 +0000",
+      "minecraft:mangrove_swamp": "2025-08-02 01:52:38 +0000",
       "minecraft:sparse_jungle": "2025-07-16 00:43:50 +0000",
       "minecraft:river": "2025-07-15 00:23:51 +0000",
       "minecraft:lukewarm_ocean": "2025-07-15 16:47:32 +0000",
@@ -1444,10 +1452,13 @@
       "minecraft:dripstone_caves": "2025-07-15 03:53:18 +0000",
       "minecraft:swamp": "2025-07-16 16:47:04 +0000",
       "minecraft:forest": "2025-07-15 15:41:25 +0000",
+      "minecraft:desert": "2025-08-02 01:57:32 +0000",
       "minecraft:ocean": "2025-07-15 16:44:30 +0000",
       "minecraft:jungle": "2025-07-16 15:20:15 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-15 16:25:25 +0000",
       "minecraft:windswept_savanna": "2025-08-02 01:30:59 +0000",
+      "minecraft:warm_ocean": "2025-08-02 02:00:24 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-08-02 02:00:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-15 16:30:32 +0000",
       "minecraft:meadow": "2025-07-15 15:40:48 +0000",
       "minecraft:savanna": "2025-07-15 16:50:38 +0000",
@@ -8203,11 +8214,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-08-02 01:55:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_boots": "2025-08-02 02:11:40 +0000"
+    },
+    "done": false
+  },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
       "squireofthe_dark_lord_0": "2025-08-02 01:44:13 +0000"
     },
     "done": false
+  },
+  "graveyard:graveyard/lich_prison": {
+    "criteria": {
+      "lich_prison": "2025-08-02 02:32:27 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {

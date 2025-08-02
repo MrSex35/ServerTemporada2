@@ -6389,6 +6389,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/lime_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_toilet": {
     "criteria": {
       "has_dye": "2025-08-02 00:50:26 +0000"
@@ -6410,6 +6416,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cyan_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
     },
     "done": true
   },
@@ -6437,9 +6449,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/brown_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
     },
     "done": true
   },
@@ -6479,9 +6509,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-08-02 00:55:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/pink_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
     },
     "done": true
   },
@@ -6503,9 +6545,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/magenta_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/green_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
     },
     "done": true
   },
@@ -6527,6 +6581,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/red_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/orange_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-02 00:50:26 +0000"
@@ -6545,6 +6611,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/purple_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_sofa_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-02 00:50:26 +0000"
@@ -6557,6 +6629,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/light_blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-08-02 00:49:13 +0000"
@@ -6566,6 +6644,12 @@
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-08-02 00:43:58 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/yellow_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
     },
     "done": true
   },
@@ -6605,9 +6689,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/light_gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/white_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/black_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
     },
     "done": true
   },
