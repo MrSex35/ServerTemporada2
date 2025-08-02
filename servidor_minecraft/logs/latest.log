@@ -15,3 +15,7 @@
 [02Aug2025 00:06:07.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
 [02Aug2025 00:06:07.015] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
 [02Aug2025 00:06:07.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[02Aug2025 00:18:43.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[02Aug2025 00:26:03.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[02Aug2025 00:26:22.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[02Aug2025 00:27:02.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [A Seedy Place]
