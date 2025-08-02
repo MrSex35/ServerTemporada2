@@ -1440,6 +1440,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-08-02 22:06:40 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-15 17:09:36 +0000",
       "minecraft:taiga": "2025-07-16 16:34:05 +0000",
       "minecraft:deep_ocean": "2025-08-02 02:29:06 +0000",
@@ -8439,77 +8440,29 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 17:58:30 +0000"
+      "has_ink_sac": "2025-08-02 22:06:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "cataclysm:find_acropolis": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 17:58:30 +0000"
+      "acropolis": "2025-08-02 22:06:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 17:58:30 +0000"
+      "has_scute": "2025-08-02 22:06:59 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "paraglider:all_vessels": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 17:58:30 +0000"
+      "code_triggered": "2025-08-02 22:06:40 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 17:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 17:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 17:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 17:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 17:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 17:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 17:58:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 17:58:30 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

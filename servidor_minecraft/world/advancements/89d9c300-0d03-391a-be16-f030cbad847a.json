@@ -2896,7 +2896,8 @@
       "minecraft:wither_skeleton": "2025-08-02 20:08:31 +0000",
       "minecraft:piglin": "2025-08-02 01:03:03 +0000",
       "minecraft:vex": "2025-08-02 20:02:48 +0000",
-      "minecraft:zombie": "2025-07-15 22:52:06 +0000"
+      "minecraft:zombie": "2025-07-15 22:52:06 +0000",
+      "minecraft:zombie_villager": "2025-08-02 22:07:41 +0000"
     },
     "done": false
   },
@@ -5811,9 +5812,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/warped": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-08-02 22:03:46 +0000"
     },
     "done": true
   },
@@ -5853,6 +5866,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/blinds": {
+    "criteria": {
+      "has_wood": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-08-02 19:41:20 +0000"
@@ -5883,9 +5902,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_home": {
     "criteria": {
       "coded_trigger": "2025-08-02 20:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-02 22:05:02 +0000"
     },
     "done": true
   },
@@ -5898,6 +5929,18 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_the_recipe": "2025-08-02 21:06:20 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/parapets": {
+    "criteria": {
+      "has_wood": "2025-08-02 22:03:46 +0000"
     },
     "done": true
   },
@@ -5937,9 +5980,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-08-02 20:29:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-02 22:05:02 +0000"
     },
     "done": true
   },
@@ -5967,6 +6022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_wall_from_mossy_stone_stonecutting": {
     "criteria": {
       "has_mossy_stone": "2025-08-02 21:28:06 +0000"
@@ -5979,9 +6040,39 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/spruce": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-08-02 22:03:26 +0000"
     },
     "done": true
   },
@@ -6012,6 +6103,12 @@
   "mcwfurnitures:recipes/oak": {
     "criteria": {
       "has_wood": "2025-08-02 19:41:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2025-08-02 22:03:46 +0000"
     },
     "done": true
   },
@@ -6051,6 +6148,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-08-02 22:03:26 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/lapis_lazuli_basic_shield": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-02 20:30:20 +0000"
@@ -6060,6 +6163,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-02 20:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-02 22:03:46 +0000"
     },
     "done": true
   },
@@ -6078,6 +6187,12 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-08-02 20:04:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2025-08-02 22:03:46 +0000"
     },
     "done": true
   },
@@ -6111,6 +6226,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
@@ -6141,6 +6268,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/shutters": {
+    "criteria": {
+      "has_wood": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
   "legendary_monsters:defeat_withered_abomination": {
     "criteria": {
       "abomination": "2025-08-02 19:53:19 +0000"
@@ -6150,6 +6283,24 @@
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2025-08-02 20:25:54 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-08-02 22:03:26 +0000"
     },
     "done": true
   },
@@ -6195,6 +6346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-02 20:18:49 +0000"
@@ -6234,6 +6391,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-02 20:33:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-08-02 22:03:46 +0000"
     },
     "done": true
   },
