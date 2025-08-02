@@ -409,3 +409,13 @@
 [02Aug2025 01:08:44.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=91, z=104} BlockPos{x=-199, y=86, z=105}
 [02Aug2025 01:08:44.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=91, z=104} BlockPos{x=-199, y=86, z=105}
 [02Aug2025 01:08:44.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=91, z=104} BlockPos{x=-199, y=86, z=105}
+[02Aug2025 01:09:37.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [War Pigs]
+[02Aug2025 01:09:44.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [It Belongs in a Museum]
+[02Aug2025 01:13:41.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Magic Writing]
+[02Aug2025 01:13:45.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Ice Bucket Challenge]
+[02Aug2025 01:15:44.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Nightmare Fuel]
+[02Aug2025 01:16:07.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Oh Shiny]
+[02Aug2025 01:16:18.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Guard'/34932, l='ServerLevel[world]', x=-266.19, y=52.00, z=3.28] died: 1$s has perished from holy damage by Misterchuwa using [sword Gay]
+[02Aug2025 01:16:19.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Who is Cutting Onions?]
+[02Aug2025 01:17:30.290] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Village Brewer'/34916, l='ServerLevel[world]', x=-266.70, y=52.00, z=4.01] died: 1$s has perished from unholy damage by Misterchuwa using [sword Gay]
+[02Aug2025 01:17:37.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Piglin Pillage]
