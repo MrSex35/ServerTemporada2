@@ -19,3 +19,9 @@
 [02Aug2025 00:26:03.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
 [02Aug2025 00:26:22.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
 [02Aug2025 00:27:02.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [A Seedy Place]
+[02Aug2025 00:29:25.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[02Aug2025 00:30:45.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[02Aug2025 00:37:18.862] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Timed out
+[02Aug2025 00:37:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[02Aug2025 00:37:18.890] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Aug2025 00:37:23.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> g
