@@ -660,3 +660,37 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Aug2025 16:49:24.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
 [02Aug2025 16:49:26.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2954ms or 59 ticks behind
 [02Aug2025 16:49:30.637] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Not Installed for use
+[02Aug2025 17:58:32.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: You logged in from another location
+[02Aug2025 17:58:32.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[02Aug2025 17:58:32.145] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Aug2025 17:58:32.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:59626] logged in with entity id 14032 at (-1073.3876616699563, 60.0, 565.6999999880791)
+[02Aug2025 17:58:32.153] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
+[02Aug2025 17:58:32.153] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
+[02Aug2025 17:58:32.154] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
+[02Aug2025 17:58:32.154] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
+[02Aug2025 17:58:32.157] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
+[02Aug2025 17:58:32.160] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
+[02Aug2025 17:58:32.160] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
+[02Aug2025 17:58:32.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[02Aug2025 18:01:25.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:56419] logged in with entity id 15917 at (-1026.300000011921, 124.0, 580.8112160507198)
+[02Aug2025 18:01:25.920] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JAGlitsh
+[02Aug2025 18:01:25.920] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JAGlitsh
+[02Aug2025 18:01:25.921] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JAGlitsh
+[02Aug2025 18:01:25.921] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JAGlitsh
+[02Aug2025 18:01:25.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JAGlitsh
+[02Aug2025 18:01:25.926] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JAGlitsh
+[02Aug2025 18:01:25.926] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JAGlitsh
+[02Aug2025 18:01:25.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[02Aug2025 18:02:12.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[02Aug2025 18:02:12.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[02Aug2025 18:03:37.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:56488] logged in with entity id 16719 at (-1024.612339007341, 124.0, 574.918492179195)
+[02Aug2025 18:03:37.615] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JAGlitsh
+[02Aug2025 18:03:37.615] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JAGlitsh
+[02Aug2025 18:03:37.615] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JAGlitsh
+[02Aug2025 18:03:37.616] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JAGlitsh
+[02Aug2025 18:03:37.618] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JAGlitsh
+[02Aug2025 18:03:37.620] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JAGlitsh
+[02Aug2025 18:03:37.621] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JAGlitsh
+[02Aug2025 18:03:37.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[02Aug2025 18:06:06.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
+[02Aug2025 18:07:06.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
