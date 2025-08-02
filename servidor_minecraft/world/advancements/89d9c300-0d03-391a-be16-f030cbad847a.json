@@ -81,14 +81,17 @@
     "criteria": {
       "biomeswevegone:redwood_thicket": "2025-08-02 22:18:31 +0000",
       "biomeswevegone:cika_woods": "2025-07-15 22:03:46 +0000",
+      "biomeswevegone:araucaria_savanna": "2025-08-02 22:24:16 +0000",
       "biomeswevegone:crag_gardens": "2025-07-15 23:06:53 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-15 00:09:48 +0000",
       "biomeswevegone:temperate_grove": "2025-07-15 22:29:22 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-15 22:19:42 +0000",
+      "biomeswevegone:firecracker_chaparral": "2025-08-02 22:24:27 +0000",
       "biomeswevegone:lush_stacks": "2025-08-02 21:33:42 +0000",
       "biomeswevegone:black_forest": "2025-07-15 22:04:41 +0000",
       "biomeswevegone:maple_taiga": "2025-07-15 22:06:13 +0000",
       "biomeswevegone:orchard": "2025-07-15 22:14:53 +0000",
+      "biomeswevegone:ironwood_gour": "2025-08-02 22:23:10 +0000",
       "biomeswevegone:amaranth_grassland": "2025-07-18 23:06:53 +0000",
       "biomeswevegone:prairie": "2025-07-15 22:22:00 +0000",
       "biomeswevegone:ebony_woods": "2025-07-18 23:20:45 +0000",
@@ -96,7 +99,9 @@
       "biomeswevegone:dacite_ridges": "2025-07-15 22:04:49 +0000",
       "biomeswevegone:skyrise_vale": "2025-08-01 23:36:45 +0000",
       "biomeswevegone:allium_shrubland": "2025-07-15 22:21:19 +0000",
-      "biomeswevegone:pumpkin_valley": "2025-08-02 20:25:38 +0000"
+      "biomeswevegone:pumpkin_valley": "2025-08-02 20:25:38 +0000",
+      "biomeswevegone:baobab_savanna": "2025-08-02 22:23:09 +0000",
+      "biomeswevegone:rainbow_beach": "2025-08-02 22:34:52 +0000"
     },
     "done": false
   },
@@ -2895,8 +2900,10 @@
       "minecraft:ghast": "2025-08-02 01:01:25 +0000",
       "minecraft:hoglin": "2025-08-02 01:06:30 +0000",
       "minecraft:piglin_brute": "2025-08-02 01:05:25 +0000",
+      "minecraft:witch": "2025-08-02 22:28:48 +0000",
       "minecraft:wither_skeleton": "2025-08-02 20:08:31 +0000",
       "minecraft:piglin": "2025-08-02 01:03:03 +0000",
+      "minecraft:silverfish": "2025-08-02 22:36:22 +0000",
       "minecraft:vex": "2025-08-02 20:02:48 +0000",
       "minecraft:zombie": "2025-07-15 22:52:06 +0000",
       "minecraft:zombie_villager": "2025-08-02 22:07:41 +0000"
@@ -5808,6 +5815,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_1": "2025-08-02 22:32:44 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-08-02 21:32:38 +0000"
@@ -5904,9 +5917,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 22:35:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-02 22:18:57 +0000"
     },
     "done": true
   },
@@ -5928,6 +5953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-02 22:18:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_the_recipe": "2025-08-02 21:06:20 +0000"
@@ -5946,6 +5977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 22:35:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-02 20:33:37 +0000"
@@ -5961,6 +5998,18 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-08-02 21:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-08-02 22:21:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 22:35:16 +0000"
     },
     "done": true
   },
@@ -6024,9 +6073,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-08-02 22:27:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-08-02 22:32:18 +0000"
     },
     "done": true
   },
@@ -6078,6 +6139,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 22:35:16 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_knowledge": {
     "criteria": {
       "coded_trigger": "2025-08-02 21:10:31 +0000"
@@ -6093,6 +6160,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_stairs_from_mossy_stone_stonecutting": {
     "criteria": {
       "has_mossy_stone": "2025-08-02 21:28:06 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-08-02 22:27:03 +0000"
     },
     "done": true
   },
@@ -6126,6 +6199,18 @@
     },
     "done": false
   },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-08-02 22:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-02 22:18:57 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/crimson": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
@@ -6135,6 +6220,12 @@
   "legendary_monsters:locate_soul_fortress_remains": {
     "criteria": {
       "soul_fortress": "2025-08-02 19:50:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-02 22:28:55 +0000"
     },
     "done": true
   },
@@ -6150,6 +6241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-02 22:18:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-08-02 22:03:26 +0000"
@@ -6159,6 +6256,18 @@
   "spartanshields:recipes/lapis_lazuli_basic_shield": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-02 20:30:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-08-02 22:27:03 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-08-02 22:28:55 +0000"
     },
     "done": true
   },
@@ -6204,6 +6313,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-08-02 22:32:18 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blackstone": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
@@ -6222,9 +6337,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-08-02 22:21:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-02 20:33:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-08-02 22:27:03 +0000"
     },
     "done": true
   },
@@ -6249,6 +6376,12 @@
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-08-02 22:28:55 +0000"
     },
     "done": true
   },
@@ -6306,6 +6439,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-08-02 22:27:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-08-02 22:03:26 +0000"
@@ -6315,6 +6454,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-02 20:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-08-02 22:32:18 +0000"
     },
     "done": true
   },
@@ -6330,9 +6475,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 22:28:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_slab_from_mossy_stone_stonecutting": {
     "criteria": {
       "has_mossy_stone": "2025-08-02 21:28:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 22:35:16 +0000"
     },
     "done": true
   },
@@ -6348,6 +6505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-02 22:18:57 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
@@ -6357,6 +6520,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-02 22:03:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-08-02 22:21:36 +0000"
     },
     "done": true
   },
@@ -6393,6 +6562,18 @@
   "mcwwindows:recipes/bricks": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-02 22:28:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-08-02 22:28:55 +0000"
     },
     "done": true
   },
@@ -6438,6 +6619,30 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-08-02 22:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-02 22:35:16 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-08-02 22:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-02 22:18:57 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2025-08-02 19:53:19 +0000"
@@ -6453,6 +6658,12 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2025-08-02 20:46:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-08-02 22:27:03 +0000"
     },
     "done": true
   },
