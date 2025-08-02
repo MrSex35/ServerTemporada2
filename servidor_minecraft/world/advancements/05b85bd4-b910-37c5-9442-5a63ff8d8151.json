@@ -6389,5 +6389,197 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/blue_toilet": {
+    "criteria": {
+      "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_bath": {
+    "criteria": {
+      "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_drawer": {
+    "criteria": {
+      "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_toilet": {
+    "criteria": {
+      "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_drawer_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/transmutation_table": {
+    "criteria": {
+      "sopa_de_macaco": "2025-08-02 00:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "weather2:recipes/misc/tornado_siren": {
+    "criteria": {
+      "has_sensor_item": "2025-08-02 00:48:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-08-02 00:49:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_grill_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_cooler_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_sink": {
+    "criteria": {
+      "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_sofa_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_basin": {
+    "criteria": {
+      "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-08-02 00:49:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-08-02 00:43:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_stool_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/blue_kitchen_cabinetry": {
+    "criteria": {
+      "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
