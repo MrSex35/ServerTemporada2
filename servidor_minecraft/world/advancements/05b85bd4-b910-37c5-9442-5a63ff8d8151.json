@@ -6898,11 +6898,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "requirement": "2025-08-02 18:18:30 +0000"
+      "has_flint": "2025-08-02 18:22:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "paraglider:all_vessels": {
     "criteria": {
