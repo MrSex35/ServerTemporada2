@@ -728,3 +728,111 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Aug2025 19:48:08.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 1.081201527932535
 [02Aug2025 19:48:08.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 1.081201527932535
 [02Aug2025 19:48:08.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 0.45619192333174396
+[02Aug2025 19:50:24.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 19:50:39.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [The Soul Fortress]
+[02Aug2025 19:51:44.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Ancient Battlefield]
+[02Aug2025 19:51:44.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Strange Biomes]
+[02Aug2025 19:53:19.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Ashes 'n Bones]
+[02Aug2025 19:53:19.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has completed the challenge [The Soul Eater]
+[02Aug2025 19:53:49.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 19:56:30.282] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/45594, l='ServerLevel[world]', x=113.50, y=-20.00, z=88.50] died: Restless Spirit was killed
+[02Aug2025 19:57:12.870] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[02Aug2025 19:57:12.871] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[02Aug2025 19:57:22.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa burned to death
+[02Aug2025 19:58:18.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 20:02:01.437] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:02:48.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Apparitions]
+[02Aug2025 20:02:48.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/50071, l='ServerLevel[world]', x=28.30, y=47.45, z=69.65] died: Restless Spirit was shot by Misterchuwa
+[02Aug2025 20:03:30.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 1.874741194156968,-9.830400044574105,0.9640405054051371
+[02Aug2025 20:03:30.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 1.9081349999057693,-10.14866856804531,0.9812159393907223
+[02Aug2025 20:03:30.712] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 1.940405518175794,-10.46696244855437,0.9978136694271598
+[02Aug2025 20:03:30.714] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 1.9715905340008248,-10.785279750382642,1.0138531235174923
+[02Aug2025 20:03:30.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.0017265613614654,-11.103618682254307,1.0293530767430639
+[02Aug2025 20:03:30.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.0308488859475347,-11.421977591590121,1.0443316731495997
+[02Aug2025 20:03:30.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.0589916064814133,-11.7403549480361,1.0588064469068286
+[02Aug2025 20:03:30.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.0861876746510006,-12.05874934132325,1.0727943427659739
+[02Aug2025 20:03:30.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.1124689336979827,-12.377159464394026,1.0863117358348973
+[02Aug2025 20:03:30.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.1378661557071155,-12.69558411275412,1.0993744506968142
+[02Aug2025 20:03:30.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.162409077641996,-13.014022170836455,1.1119977798896343
+[02Aug2025 20:03:30.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.18612643616666,-13.332472610611092,1.1241965017698021
+[02Aug2025 20:03:30.720] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.209046001295974,-13.650934480991054,1.1359848977792808
+[02Aug2025 20:03:30.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.2311946089146204,-13.969406905519975,1.1473767691354624
+[02Aug2025 20:03:30.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.2525981922003666,-14.287889070928031,1.1583854529628752
+[02Aug2025 20:03:30.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.2732818119909552,-14.606380227761633,1.1690238378853337
+[02Aug2025 20:03:30.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.293269686129179,-14.924879685375913,1.1793043790951288
+[02Aug2025 20:03:30.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.312585217820697,-15.243386803594774,1.1892391129194948
+[02Aug2025 20:03:30.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.3312510230375665,-15.561900992475898,1.198839670896632
+[02Aug2025 20:03:30.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.349288956999544,-15.880421708369056,1.2081172933812923
+[02Aug2025 20:03:30.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.366720139765448,-16.198948448420907,1.2170828426940261
+[02Aug2025 20:03:30.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.383564980962774,-16.51748074737378,1.2257468158290976
+[02Aug2025 20:03:30.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.3998432036851227,-16.83601817647815,1.2341193567353912
+[02Aug2025 20:03:30.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.415573867586545,-17.15456033876532,1.2422102681864544
+[02Aug2025 20:03:30.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.4307753911984946,-17.473106868416238,1.2500290232510451
+[02Aug2025 20:03:30.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.4454655734959942,-17.791657428317194,1.2575847763789625
+[02Aug2025 20:03:30.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.459661614738252,-18.110211707807395,1.2648863741144396
+[02Aug2025 20:03:30.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.4733801366085117,-18.428769418740558,1.2719423654500588
+[02Aug2025 20:03:30.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.4866372016763307,-18.74733029744354,1.2787610118321027
+[02Aug2025 20:03:30.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.4994483322045653,-19.06589409720803,1.2853502968305293
+[02Aug2025 20:03:30.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.5118285283247133,-19.384460592547214,1.2917179354838026
+[02Aug2025 20:03:30.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.5237922855997112,-19.70302957380534,1.2978713833288111
+[02Aug2025 20:03:30.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.5353536119971523,-20.02160084964072,1.303817845129288
+[02Aug2025 20:03:30.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.546526044290431,-20.340174243725983,1.3095642833086458
+[02Aug2025 20:03:30.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.55732266390919,-20.658749589844717,1.3151174261008691
+[02Aug2025 20:03:30.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.5677561122556654,-20.97732673668588,1.32048377542651
+[02Aug2025 20:03:30.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.577838605506031,-21.29590554481169,1.3256696145049318
+[02Aug2025 20:03:30.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.5875819489147034,-21.614485885725827,1.3306810152096205
+[02Aug2025 20:03:30.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.5969975506361607,-21.93306764101493,1.3355238451763398
+[02Aug2025 20:03:30.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.6060964350826907,-22.25165069969475,1.3402037746725455
+[02Aug2025 20:03:30.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.6148892558326224,-22.57023496135247,1.3447262832364686
+[02Aug2025 20:03:30.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.6233863081042728,-22.888820333454532,1.3490966660913273
+[02Aug2025 20:03:30.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.6361091099286114,-23.207406730728422,1.3556405264444038
+[02Aug2025 20:03:30.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.6568393477991776,-23.525994072730157,1.3663029415954497
+[02Aug2025 20:03:30.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.6887203309197503,-23.84458228532813,1.382700644760007
+[02Aug2025 20:03:30.771] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3740ms or 74 ticks behind
+[02Aug2025 20:03:50.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! -2.1801045157959322,-9.667067244575911,-2.937192508715583
+[02Aug2025 20:04:11.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 20:04:18.648] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/51048, l='ServerLevel[world]', x=30.43, y=38.03, z=61.43] died: Restless Spirit was shot by Misterchuwa
+[02Aug2025 20:08:13.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Straddle My Ol' Saddle]
+[02Aug2025 20:08:31.844] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/47890, l='ServerLevel[world]', x=102.54, y=103.00, z=69.21] died: Headless Warrior was killed by magic whilst trying to escape Misterchuwa
+[02Aug2025 20:10:29.345] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/52011, l='ServerLevel[world]', x=152.01, y=112.42, z=73.54] died: Restless Spirit was shot by Misterchuwa
+[02Aug2025 20:11:53.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 10.06345477837749,-2.2058699130411696E-5,1.624327584650473
+[02Aug2025 20:11:53.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 10.442641822211272,-2.3061367272703137E-5,1.6657803528751174
+[02Aug2025 20:11:53.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 10.811114629927715,-2.4064035414994578E-5,1.7053351782587924
+[02Aug2025 20:11:58.891] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:11:59.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:00.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:00.594] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:00.788] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:01.188] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:01.602] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:01.605] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:02.108] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:02.153] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:02.382] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:02.383] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:02.636] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:02.787] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:02.788] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:12:11.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! 0.6018461112323052,-10.03207959364515,1.7330371740074497
+[02Aug2025 20:12:33.492] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:13:16.332] [Worker-Main-146/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1580, y=55, z=-2880}
+[02Aug2025 20:13:17.962] [Worker-Main-146/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1577, y=55, z=-2881}
+[02Aug2025 20:13:27.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/52785, l='ServerLevel[world]', x=228.50, y=-20.00, z=104.50] died: Restless Spirit was killed
+[02Aug2025 20:13:32.439] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:13:32.587] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:13:32.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:13:32.588] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:14:19.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 20:14:36.982] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53640, l='ServerLevel[world]', x=229.50, y=-20.00, z=112.50] died: Restless Spirit was killed
+[02Aug2025 20:14:47.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/53831, l='ServerLevel[world]', x=226.50, y=-20.00, z=125.50] died: Restless Spirit was killed
+[02Aug2025 20:15:26.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/54464, l='ServerLevel[world]', x=290.50, y=-20.00, z=132.50] died: Restless Spirit was killed
+[02Aug2025 20:16:43.494] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/55215, l='ServerLevel[world]', x=260.22, y=65.00, z=254.36] died: Headless Warrior was slain by Piglin Brute
+[02Aug2025 20:18:29.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/55322, l='ServerLevel[world]', x=295.50, y=-20.00, z=159.50] died: Restless Spirit was killed
+[02Aug2025 20:18:29.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/55324, l='ServerLevel[world]', x=296.50, y=-20.00, z=156.50] died: Restless Spirit was killed
+[02Aug2025 20:20:46.598] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/56002, l='ServerLevel[world]', x=228.60, y=36.58, z=272.65] died: Headless Warrior was slain by Piglin
+[02Aug2025 20:20:47.898] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/55863, l='ServerLevel[world]', x=226.45, y=36.00, z=272.65] died: Headless Warrior was slain by Piglin Brute
+[02Aug2025 20:21:05.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/56100, l='ServerLevel[world]', x=258.29, y=67.00, z=265.94] died: Headless Warrior was slain by Piglin Brute
+[02Aug2025 20:23:02.983] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/56028, l='ServerLevel[world]', x=181.90, y=-20.00, z=267.33] died: Restless Spirit was killed
+[02Aug2025 20:24:04.600] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Aug2025 20:24:13.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8518ms or 170 ticks behind
+[02Aug2025 20:25:54.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Deceived Hopes]

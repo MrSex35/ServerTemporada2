@@ -93,7 +93,8 @@
       "biomeswevegone:aspen_boreal": "2025-07-15 22:50:29 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-15 22:04:49 +0000",
       "biomeswevegone:skyrise_vale": "2025-08-01 23:36:45 +0000",
-      "biomeswevegone:allium_shrubland": "2025-07-15 22:21:19 +0000"
+      "biomeswevegone:allium_shrubland": "2025-07-15 22:21:19 +0000",
+      "biomeswevegone:pumpkin_valley": "2025-08-02 20:25:38 +0000"
     },
     "done": false
   },
@@ -2311,7 +2312,8 @@
   },
   "biomeswevegone:biomeswevegone/husbandry/johnny_appleseed": {
     "criteria": {
-      "apple": "2025-07-15 22:15:05 +0000"
+      "apple": "2025-07-15 22:15:05 +0000",
+      "golden_apple": "2025-08-02 20:19:36 +0000"
     },
     "done": false
   },
@@ -2881,10 +2883,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-02 20:28:23 +0000",
       "minecraft:ghast": "2025-08-02 01:01:25 +0000",
       "minecraft:hoglin": "2025-08-02 01:06:30 +0000",
       "minecraft:piglin_brute": "2025-08-02 01:05:25 +0000",
+      "minecraft:wither_skeleton": "2025-08-02 20:08:31 +0000",
       "minecraft:piglin": "2025-08-02 01:03:03 +0000",
+      "minecraft:vex": "2025-08-02 20:02:48 +0000",
       "minecraft:zombie": "2025-07-15 22:52:06 +0000"
     },
     "done": false
@@ -5776,6 +5781,12 @@
     },
     "done": true
   },
+  "incendium:withered_forest/kill_spirit": {
+    "criteria": {
+      "requirement": "2025-08-02 20:02:48 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/warped": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
@@ -5788,9 +5799,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-08-02 20:04:19 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-08-02 19:41:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-08-02 19:51:44 +0000"
     },
     "done": true
   },
@@ -5809,6 +5832,24 @@
   "mcwwindows:recipes/cherry": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-08-02 20:18:49 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2025-08-02 19:51:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-08-02 20:08:13 +0000"
     },
     "done": true
   },
@@ -5836,9 +5877,21 @@
     },
     "done": true
   },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:withered_forest": "2025-08-02 19:51:44 +0000"
+    },
+    "done": false
+  },
   "mcwwindows:recipes/crimson": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-08-02 19:50:39 +0000"
     },
     "done": true
   },
@@ -5860,6 +5913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-02 20:04:37 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/blackstone": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
@@ -5872,9 +5931,27 @@
     },
     "done": true
   },
+  "iammusicplayer:iammusicplayer/root": {
+    "criteria": {
+      "iammusicplayer": "2025-08-02 20:04:39 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/sandstone": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_withered_abomination": {
+    "criteria": {
+      "abomination": "2025-08-02 19:53:19 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-08-02 20:25:54 +0000"
     },
     "done": true
   },
@@ -5887,6 +5964,12 @@
   "mcwwindows:recipes/red_sandstone": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-02 20:18:49 +0000"
     },
     "done": true
   },
@@ -5914,9 +5997,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 19:53:19 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:recipes/building_blocks/maple_planks": {
     "criteria": {
       "has_log": "2025-08-02 19:41:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-08-02 20:04:19 +0000"
     },
     "done": true
   },
