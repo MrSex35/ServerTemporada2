@@ -84,6 +84,7 @@
       "biomeswevegone:zelkova_forest": "2025-07-15 00:09:48 +0000",
       "biomeswevegone:temperate_grove": "2025-07-15 22:29:22 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-15 22:19:42 +0000",
+      "biomeswevegone:lush_stacks": "2025-08-02 21:33:42 +0000",
       "biomeswevegone:black_forest": "2025-07-15 22:04:41 +0000",
       "biomeswevegone:maple_taiga": "2025-07-15 22:06:13 +0000",
       "biomeswevegone:orchard": "2025-07-15 22:14:53 +0000",
@@ -2301,11 +2302,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-15 22:47:38 +0000",
+      "minecraft:beach": "2025-08-02 21:34:20 +0000",
       "minecraft:river": "2025-07-15 22:14:49 +0000",
+      "minecraft:lukewarm_ocean": "2025-08-02 21:34:15 +0000",
       "minecraft:dripstone_caves": "2025-07-18 23:06:55 +0000",
       "minecraft:forest": "2025-07-15 22:30:04 +0000",
+      "minecraft:ocean": "2025-08-02 21:32:54 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-15 22:50:21 +0000",
+      "minecraft:old_growth_birch_forest": "2025-08-02 21:31:56 +0000",
       "minecraft:meadow": "2025-07-15 22:30:02 +0000",
+      "minecraft:savanna": "2025-08-02 21:34:23 +0000",
       "minecraft:plains": "2025-07-15 22:22:19 +0000"
     },
     "done": false
@@ -5799,9 +5805,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 21:32:38 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/warped": {
     "criteria": {
       "has_the_recipe": "2025-08-02 19:41:38 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mossy_stone_stairs": {
+    "criteria": {
+      "has_mossy_stone": "2025-08-02 21:28:06 +0000"
     },
     "done": true
   },
@@ -5844,6 +5862,12 @@
   "incendium:withered_forest/root": {
     "criteria": {
       "requirement": "2025-08-02 19:51:44 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/building_blocks/mossy_stone_slab": {
+    "criteria": {
+      "has_mossy_stone": "2025-08-02 21:28:06 +0000"
     },
     "done": true
   },
@@ -5943,6 +5967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_wall_from_mossy_stone_stonecutting": {
+    "criteria": {
+      "has_mossy_stone": "2025-08-02 21:28:06 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-08-02 20:08:13 +0000"
@@ -5955,9 +5985,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 21:10:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-02 20:33:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_stairs_from_mossy_stone_stonecutting": {
+    "criteria": {
+      "has_mossy_stone": "2025-08-02 21:28:06 +0000"
     },
     "done": true
   },
@@ -6129,6 +6171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_slab_from_mossy_stone_stonecutting": {
+    "criteria": {
+      "has_mossy_stone": "2025-08-02 21:28:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-02 20:33:37 +0000"
@@ -6183,6 +6231,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-08-02 21:35:41 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/oak": {
     "criteria": {
       "has_wood": "2025-08-02 19:41:38 +0000"
@@ -6228,6 +6282,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-08-02 20:04:19 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:recipes/decorations/mossy_stone_wall": {
+    "criteria": {
+      "has_mossy_stone": "2025-08-02 21:28:06 +0000"
     },
     "done": true
   },
