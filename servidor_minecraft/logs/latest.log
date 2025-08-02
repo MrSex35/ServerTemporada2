@@ -702,3 +702,6 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Aug2025 18:53:25.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
 [02Aug2025 18:57:58.141] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 667.9 μs. 1043/1043 recipes are parallelized.
 [02Aug2025 19:01:00.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [You're too Slow!]
+[02Aug2025 19:13:32.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[02Aug2025 19:13:53.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[02Aug2025 19:13:53.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
