@@ -3479,6 +3479,7 @@
       "minecraft:phantom": "2025-07-19 19:45:08 +0000",
       "minecraft:witch": "2025-07-19 22:20:57 +0000",
       "minecraft:cave_spider": "2025-07-16 01:29:02 +0000",
+      "minecraft:piglin": "2025-08-02 01:41:49 +0000",
       "minecraft:zombie": "2025-07-15 03:45:51 +0000",
       "minecraft:zombie_villager": "2025-07-16 00:35:38 +0000"
     },
@@ -8193,6 +8194,36 @@
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2025-08-01 23:53:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/tomb_raider": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 01:44:13 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_0": "2025-08-02 01:44:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-02 01:48:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-02 01:48:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-08-02 01:39:29 +0000"
     },
     "done": true
   },
