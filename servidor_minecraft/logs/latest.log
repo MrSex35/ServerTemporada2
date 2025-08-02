@@ -378,3 +378,34 @@
 [02Aug2025 00:58:26.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Timed out
 [02Aug2025 00:58:26.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
 [02Aug2025 00:58:26.152] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Aug2025 00:58:51.036] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@20f169ef[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:64691) lost connection: Disconnected
+[02Aug2025 00:58:56.435] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b2aad7[id=<null>,name=Misterchuwa,properties={},legacy=false] (/100.99.92.13:64717) lost connection: Disconnected
+[02Aug2025 00:59:00.255] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:64722] logged in with entity id 33741 at (-1025.4261078225413, 67.91564586078748, 564.2374031548433)
+[02Aug2025 00:59:00.257] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Misterchuwa
+[02Aug2025 00:59:00.257] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Misterchuwa
+[02Aug2025 00:59:00.257] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Misterchuwa
+[02Aug2025 00:59:00.258] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Misterchuwa
+[02Aug2025 00:59:00.260] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Misterchuwa
+[02Aug2025 00:59:00.264] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Misterchuwa
+[02Aug2025 00:59:00.265] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
+[02Aug2025 00:59:00.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[02Aug2025 00:59:14.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
+[02Aug2025 01:00:50.640] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[02Aug2025 01:00:55.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [We Need to Go Deeper]
+[02Aug2025 01:00:55.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Incendium]
+[02Aug2025 01:00:58.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8208ms or 164 ticks behind
+[02Aug2025 01:03:22.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Those Were the Days]
+[02Aug2025 01:04:26.408] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[02Aug2025 01:04:26.409] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[02Aug2025 01:04:29.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Strong or Careful]
+[02Aug2025 01:04:29.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa tried to swim in lava
+[02Aug2025 01:04:29.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Your First Grave]
+[02Aug2025 01:04:29.912] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[02Aug2025 01:04:36.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Here They Come]
+[02Aug2025 01:04:56.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [The Most Useful Key]
+[02Aug2025 01:05:05.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [A Fast Comeback]
+[02Aug2025 01:05:53.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Not Today, Thank You]
+[02Aug2025 01:08:44.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=91, z=104} BlockPos{x=-199, y=86, z=105}
+[02Aug2025 01:08:44.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=91, z=104} BlockPos{x=-199, y=86, z=105}
+[02Aug2025 01:08:44.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=91, z=104} BlockPos{x=-199, y=86, z=105}
+[02Aug2025 01:08:44.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-200, y=91, z=104} BlockPos{x=-199, y=86, z=105}

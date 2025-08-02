@@ -6395,6 +6395,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-08-02 00:58:01 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-08-02 00:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-08-02 00:50:26 +0000"
@@ -6467,6 +6479,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-02 00:55:09 +0000"
+    },
+    "done": true
+  },
   "weather2:recipes/misc/tornado_siren": {
     "criteria": {
       "has_sensor_item": "2025-08-02 00:48:31 +0000"
@@ -6512,6 +6530,12 @@
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-08-02 00:55:09 +0000"
     },
     "done": true
   },
@@ -6563,9 +6587,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-08-02 00:55:09 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/decorations/blue_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-08-02 00:55:09 +0000"
     },
     "done": true
   },
