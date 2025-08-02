@@ -1133,3 +1133,6 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Aug2025 21:37:24.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
 [02Aug2025 21:40:37.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 0.24232681256398791,-11.110654503778264,-1.102708369577158
 [02Aug2025 21:40:41.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 21:44:40.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[02Aug2025 21:47:05.454] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/101864, l='ServerLevel[world]', x=-1124.86, y=67.00, z=2378.00] died, message: 'Toolsmith was slain by Zombie'
+[02Aug2025 21:48:04.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
