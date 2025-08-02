@@ -81,17 +81,20 @@
     "criteria": {
       "biomeswevegone:cika_woods": "2025-07-15 00:23:08 +0000",
       "biomeswevegone:crag_gardens": "2025-07-15 23:08:21 +0000",
+      "biomeswevegone:rugged_badlands": "2025-08-02 03:47:27 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-15 00:07:22 +0000",
       "biomeswevegone:temperate_grove": "2025-07-19 17:25:59 +0000",
       "biomeswevegone:forgotten_forest": "2025-07-19 18:52:01 +0000",
       "biomeswevegone:maple_taiga": "2025-07-15 00:45:44 +0000",
       "biomeswevegone:orchard": "2025-07-15 01:00:35 +0000",
+      "biomeswevegone:ironwood_gour": "2025-08-02 03:41:16 +0000",
       "biomeswevegone:amaranth_grassland": "2025-07-16 00:29:34 +0000",
       "biomeswevegone:prairie": "2025-07-15 01:12:05 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-16 00:40:10 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-15 00:49:36 +0000",
       "biomeswevegone:skyrise_vale": "2025-07-19 21:06:35 +0000",
-      "biomeswevegone:allium_shrubland": "2025-07-19 17:25:17 +0000"
+      "biomeswevegone:allium_shrubland": "2025-07-19 17:25:17 +0000",
+      "biomeswevegone:baobab_savanna": "2025-08-02 04:18:34 +0000"
     },
     "done": false
   },
@@ -1420,12 +1423,16 @@
       "minecraft:old_growth_pine_taiga": "2025-07-16 00:39:59 +0000",
       "minecraft:deep_ocean": "2025-08-02 02:54:38 +0000",
       "minecraft:cherry_grove": "2025-07-19 20:52:14 +0000",
+      "minecraft:birch_forest": "2025-08-02 05:05:55 +0000",
+      "minecraft:savanna_plateau": "2025-08-02 04:19:13 +0000",
       "minecraft:sparse_jungle": "2025-07-16 00:39:56 +0000",
       "minecraft:river": "2025-07-15 00:44:40 +0000",
       "minecraft:dripstone_caves": "2025-07-16 01:27:57 +0000",
       "minecraft:forest": "2025-07-19 17:23:26 +0000",
       "minecraft:ocean": "2025-08-02 02:54:41 +0000",
+      "minecraft:jungle": "2025-08-02 05:02:07 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-16 00:40:15 +0000",
+      "minecraft:savanna": "2025-08-02 03:54:00 +0000",
       "minecraft:plains": "2025-07-15 01:12:04 +0000"
     },
     "done": false
@@ -1594,7 +1601,8 @@
       "minecraft:piglin_brute": "2025-07-19 20:53:35 +0000",
       "minecraft:phantom": "2025-07-15 23:48:52 +0000",
       "minecraft:witch": "2025-07-19 21:33:08 +0000",
-      "minecraft:zombie": "2025-07-16 01:14:42 +0000"
+      "minecraft:zombie": "2025-07-16 01:14:42 +0000",
+      "minecraft:drowned": "2025-08-02 03:05:30 +0000"
     },
     "done": false
   },
@@ -4676,7 +4684,8 @@
     "criteria": {
       "has_prevent_burn": "2025-07-19 15:42:07 +0000",
       "has_prevent_suffocation": "2025-07-19 15:55:33 +0000",
-      "has_prevent_lightning": "2025-07-19 17:18:37 +0000"
+      "has_prevent_lightning": "2025-07-19 17:18:37 +0000",
+      "has_prevent_fall": "2025-08-02 04:47:06 +0000"
     },
     "done": false
   },
@@ -6391,81 +6400,33 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 02:58:05 +0000"
+      "has_receptacle_of_familiar": "2025-08-02 00:43:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "alexsmobs:alexsmobs/transmutation_table": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 02:58:05 +0000"
+      "sopa_de_macaco": "2025-08-02 00:48:00 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "weather2:recipes/misc/tornado_siren": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 02:58:05 +0000"
+      "has_sensor_item": "2025-08-02 00:48:31 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "securitycraft:recipes/tools/codebreaker": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 02:58:05 +0000"
+      "has_nether_star": "2025-08-02 00:49:13 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/misc/beacon": {
     "criteria": {
-      "log_spam_fixer": "2025-08-02 02:58:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 02:58:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 02:58:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 02:58:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 02:58:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 02:58:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 02:58:05 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-02 02:58:05 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/misc/lime_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+      "has_nether_star": "2025-08-02 00:49:13 +0000"
     },
     "done": true
   },
@@ -6475,27 +6436,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2025-08-02 00:58:01 +0000"
-    },
-    "done": true
-  },
-  "spartanshields:recipes/obsidian_basic_shield": {
-    "criteria": {
-      "has_obsidian": "2025-08-02 00:55:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_blue_dye": "2025-08-02 00:50:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/cyan_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
     },
     "done": true
   },
@@ -6523,27 +6466,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/brown_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/gray_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/blue_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-02 00:50:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/blue_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
     },
     "done": true
   },
@@ -6571,51 +6496,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/transmutation_table": {
-    "criteria": {
-      "sopa_de_macaco": "2025-08-02 00:48:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_blue_carpet": {
     "criteria": {
       "has_needed_dye": "2025-08-02 00:50:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-08-02 00:55:09 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/lich_prison": {
-    "criteria": {
-      "lich_prison": "2025-08-02 02:54:38 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/pink_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
-    },
-    "done": true
-  },
-  "weather2:recipes/misc/tornado_siren": {
-    "criteria": {
-      "has_sensor_item": "2025-08-02 00:48:31 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/tools/codebreaker": {
-    "criteria": {
-      "has_nether_star": "2025-08-02 00:49:13 +0000"
     },
     "done": true
   },
@@ -6625,21 +6508,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/magenta_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-02 00:50:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/green_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
     },
     "done": true
   },
@@ -6661,39 +6532,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/red_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/orange_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2025-08-02 00:50:26 +0000"
     },
     "done": true
   },
-  "spartanshields:recipes/obsidian_tower_shield": {
-    "criteria": {
-      "has_obsidian": "2025-08-02 00:55:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/blue_candle": {
     "criteria": {
       "has_blue_dye": "2025-08-02 00:50:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/purple_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
     },
     "done": true
   },
@@ -6706,30 +6553,6 @@
   "refurbished_furniture:recipes/misc/constructing/blue_basin": {
     "criteria": {
       "has_blue_dye": "2025-08-02 00:50:26 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/light_blue_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/beacon": {
-    "criteria": {
-      "has_nether_star": "2025-08-02 00:49:13 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-08-02 00:43:58 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/yellow_lens": {
-    "criteria": {
-      "has_glass_pane": "2025-08-02 02:04:47 +0000"
     },
     "done": true
   },
@@ -6751,21 +6574,141 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-08-02 00:55:09 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/blue_kitchen_sink_from_dyeing": {
     "criteria": {
       "has_dye": "2025-08-02 00:50:26 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/decorations/blue_lamp_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/blue_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-08-02 00:50:26 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-08-02 00:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-08-02 00:55:09 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-08-02 00:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-08-02 00:55:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-08-02 00:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-08-02 00:58:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/lime_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cyan_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/brown_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/pink_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/magenta_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/green_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/red_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/orange_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/purple_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/light_blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/yellow_lens": {
+    "criteria": {
+      "has_glass_pane": "2025-08-02 02:04:47 +0000"
     },
     "done": true
   },
@@ -6781,21 +6724,249 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/blue_lamp_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-08-02 00:50:26 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/black_lens": {
     "criteria": {
       "has_glass_pane": "2025-08-02 02:04:47 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/blue_kitchen_cabinetry_from_dyeing": {
+  "graveyard:graveyard/lich_prison": {
     "criteria": {
-      "has_dye": "2025-08-02 00:50:26 +0000"
+      "lich_prison": "2025-08-02 02:54:38 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 06:01:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 06:01:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 06:01:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 06:01:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 06:01:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 06:01:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 06:01:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 06:01:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 06:01:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 06:01:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 06:01:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-02 06:01:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-02 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-08-02 03:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-08-02 05:01:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-08-02 03:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-02 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-08-02 04:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-02 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-08-02 04:39:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-02 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-02 03:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-08-02 03:57:14 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-08-02 04:21:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-02 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-02 04:34:46 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/slime": {
+    "criteria": {
+      "has_item": "2025-08-02 03:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-02 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-02 04:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-02 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/misc/netherite_basic_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-02 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-08-02 03:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-02 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/misc/netherite_tower_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-02 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-02 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_fall": {
+    "criteria": {
+      "coded_trigger": "2025-08-02 04:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-02 04:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-08-02 03:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-02 04:33:40 +0000"
     },
     "done": true
   },
