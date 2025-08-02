@@ -442,3 +442,31 @@
 [02Aug2025 01:28:57.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
 [02Aug2025 01:29:00.899] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
 [02Aug2025 01:29:19.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 01:30:13.833] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 01:30:23.516] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 01:31:52.836] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 01:32:22.134] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 01:32:22.134] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 01:33:12.877] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1898, y=3, z=2721}
+[02Aug2025 01:33:55.433] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 01:33:55.433] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 01:33:55.783] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 01:33:55.784] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 01:33:57.082] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 01:35:54.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 01:37:16.846] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[02Aug2025 01:37:16.853] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[02Aug2025 01:37:18.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was doomed to fall
+[02Aug2025 01:37:18.691] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[02Aug2025 01:37:43.547] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[02Aug2025 01:37:43.628] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[02Aug2025 01:37:55.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Discreet Search]
+[02Aug2025 01:37:57.885] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 01:38:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[02Aug2025 01:38:11.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Chain Death]
+[02Aug2025 01:38:11.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa fell from a high place
+[02Aug2025 01:38:11.425] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[02Aug2025 01:38:13.185] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 01:38:33.034] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 01:38:33.035] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 01:38:33.136] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
