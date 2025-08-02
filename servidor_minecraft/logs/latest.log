@@ -836,3 +836,86 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Aug2025 20:24:04.600] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
 [02Aug2025 20:24:13.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8518ms or 170 ticks behind
 [02Aug2025 20:25:54.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Deceived Hopes]
+[02Aug2025 20:30:57.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 20:32:04.454] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:32:04.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:32:04.549] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:32:04.550] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:32:21.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.2122998592597014,-2.9281646391154936E-5,-11.071709660345277
+[02Aug2025 20:32:21.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.23370067064547584,-3.2006650059202E-5,-12.187718301583118
+[02Aug2025 20:32:21.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.2551283921502545,-3.469663998600936E-5,-13.305123327999354
+[02Aug2025 20:32:21.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.27658210617414625,-3.7351979486288656E-5,-14.42387778383727
+[02Aug2025 20:32:21.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.2980609276373798,-3.997300333935527E-5,-15.543936292783656
+[02Aug2025 20:32:21.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.3195640026708588,-4.256002006286508E-5,-16.665255004842038
+[02Aug2025 20:32:21.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.3409932340537125,-4.511331397338836E-5,-17.782719182276196
+[02Aug2025 20:32:21.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.3622664974450345,-4.76331470764535E-5,-18.89204691884106
+[02Aug2025 20:32:21.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.3833154532330809,-5.0119760814482106E-5,-19.989675056313445
+[02Aug2025 20:32:21.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.404083646837762,-5.257337768682646E-5,-21.07266012927539
+[02Aug2025 20:32:21.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.42452486017873525,-5.499420271348754E-5,-22.138592407714896
+[02Aug2025 20:32:21.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.4446016811230038,-5.738242485620049E-5,-23.185521311642788
+[02Aug2025 20:32:21.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.4642842626640231,-5.9738218226357276E-5,-24.211890707854764
+[02Aug2025 20:32:21.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -0.48354924686100276,-6.206174329292935E-5,-25.21648280554882
+[02Aug2025 20:33:03.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 20:33:27.735] [Worker-Main-171/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1904, y=-24, z=1918}
+[02Aug2025 20:35:23.226] [Worker-Main-147/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1473, y=-31, z=-3465}
+[02Aug2025 20:35:23.227] [Worker-Main-147/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1473, y=-31, z=-3467}
+[02Aug2025 20:35:23.227] [Worker-Main-147/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1473, y=-31, z=-3469}
+[02Aug2025 20:35:23.227] [Worker-Main-147/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1474, y=-27, z=-3465}
+[02Aug2025 20:35:23.227] [Worker-Main-147/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1474, y=-27, z=-3467}
+[02Aug2025 20:35:23.227] [Worker-Main-147/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1474, y=-27, z=-3469}
+[02Aug2025 20:35:24.544] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:24.545] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:24.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:24.589] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:24.788] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:40.047] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:40.938] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:40.939] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:40.989] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:41.041] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:41.103] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:41.103] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:52.190] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:52.896] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:52.897] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:52.898] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:53.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:53.301] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:35:58.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -3.345564826576492,0.29181165915224483,-9.423235640762414
+[02Aug2025 20:35:58.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -3.6920678274905185,0.33485356648697007,-10.387176575207377
+[02Aug2025 20:35:58.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -4.031130418063412,0.37784879090642676,-11.328959939846754
+[02Aug2025 20:36:00.340] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:36:02.490] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:36:02.689] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:36:03.940] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:37:03.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -6.753136672882192,-5.098829225521911,-5.742555388816982
+[02Aug2025 20:37:03.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -7.1440034351526265,-5.408529847084935,-6.074304778654096
+[02Aug2025 20:37:03.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -7.526896390521415,-5.718883751510873,-6.399260989859613
+[02Aug2025 20:37:03.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -7.901409724695441,-6.029844169202079,-6.717083747315883
+[02Aug2025 20:37:03.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -8.2672390828493,-6.341367551615889,-7.027518319064711
+[02Aug2025 20:37:03.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -8.624166717411981,-6.653413361353245,-7.3303829857445635
+[02Aug2025 20:37:03.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -8.972048626411606,-6.9659438805814204,-7.625558189735784
+[02Aug2025 20:37:03.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -9.310803419195963,-7.278924021451218,-7.912977142214913
+[02Aug2025 20:37:03.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -9.640402685307208,-7.592321155115542,-8.192617697806327
+[02Aug2025 20:37:03.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -9.96086266681732,-7.906104948576967,-8.464495329456895
+[02Aug2025 20:37:03.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -10.272237064065166,-8.22024720874964,-8.728657059717534
+[02Aug2025 20:37:03.161] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -10.574605551644481,-8.534721742482645,-8.985182411698588
+[02Aug2025 20:37:03.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -10.867966909279176,-8.849504216391523,-9.234297925770989
+[02Aug2025 20:37:03.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -11.152271596276023,-9.164572033276329,-9.476326613570563
+[02Aug2025 20:37:03.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -11.427446210314656,-9.479904212649302,-9.711647397523848
+[02Aug2025 20:37:23.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 20:39:48.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2211, y=-12, z=1756} BlockPos{x=2210, y=-13, z=1756}
+[02Aug2025 20:42:21.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2262, y=-9, z=1752} BlockPos{x=2262, y=-10, z=1752}
+[02Aug2025 20:42:33.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Sneak 100]
+[02Aug2025 20:43:59.140] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 20:46:45.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! 0.8847810429795118,-10.315964432609832,-1.9021779212589536
+[02Aug2025 20:47:57.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2239, y=-15, z=1763} BlockPos{x=2238, y=-15, z=1764}
+[02Aug2025 20:48:30.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2221, y=-12, z=1750} BlockPos{x=2220, y=-13, z=1749}
+[02Aug2025 20:49:53.644] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2221, y=-16, z=1722} BlockPos{x=2221, y=-17, z=1723}
+[02Aug2025 20:51:37.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2203, y=-29, z=1753} BlockPos{x=2204, y=-29, z=1754}
+[02Aug2025 20:51:54.197] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2218, y=-32, z=1748} BlockPos{x=2218, y=-33, z=1748}
+[02Aug2025 20:53:48.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Home Sweet Home]
+[02Aug2025 20:54:16.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Dark Creator]
+[02Aug2025 21:04:44.943] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 51.81 μs. 127/128 recipes are parallelized.
+[02Aug2025 21:05:51.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has completed the challenge [Cover Me in Debris]
+[02Aug2025 21:10:31.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Great minds think alike]
