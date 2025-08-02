@@ -1150,3 +1150,47 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [02Aug2025 22:10:33.698] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [02Aug2025 22:10:33.703] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [02Aug2025 22:11:22.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Urchinkin
+[02Aug2025 22:14:42.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[02Aug2025 22:16:07.191] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:16:15.391] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:16:15.392] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:16:41.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[02Aug2025 22:17:00.602] [Worker-Main-156/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1154, y=-28, z=3104}
+[02Aug2025 22:17:07.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:09.546] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:10.441] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:12.592] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:12.593] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:12.640] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:15.849] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:20.400] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:20.401] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:20.421] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:32.507] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:32.641] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:32.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:32.642] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:41.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:17:41.142] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:18:10.272] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[02Aug2025 22:18:40.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[02Aug2025 22:18:43.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Gravedigger]
+[02Aug2025 22:18:49.504] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[02Aug2025 22:18:49.512] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[02Aug2025 22:19:35.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Hippocamtus
+[02Aug2025 22:20:17.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -7.413794494586227,-6.625814705632479,2.666200693105111
+[02Aug2025 22:20:17.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -7.807009727705463,-6.9744978637881445,2.8019933802861487
+[02Aug2025 22:20:17.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -8.200408901012679,-7.323177557634324,2.937455812785629
+[02Aug2025 22:20:17.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -8.593993332433683,-7.671853982929775,3.0726176939856487
+[02Aug2025 22:20:17.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -8.987736577261785,-8.020527350467546,3.2075013862295236
+[02Aug2025 22:20:17.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -9.381613948494987,-8.369197869467456,3.3421314436377543
+[02Aug2025 22:20:17.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -9.775630729400064,-8.717865755205139,3.4765393235434203
+[02Aug2025 22:20:17.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -10.169763904874799,-9.066531235775386,3.6107495447990914
+[02Aug2025 22:20:17.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -10.563992110132858,-9.415194535735935,3.744788054210858
+[02Aug2025 22:20:17.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -10.958296465789545,-9.763855883959593,3.8786791311981688
+[02Aug2025 22:20:17.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -11.352659120831731,-10.11251551686965,4.012449201414256
+[02Aug2025 22:20:17.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -11.74706319452116,-10.46117366640712,4.146126512815499
+[02Aug2025 22:20:27.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[02Aug2025 22:20:42.599] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[02Aug2025 22:20:42.609] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[02Aug2025 22:20:53.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Clawdian

@@ -79,6 +79,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:redwood_thicket": "2025-08-02 22:18:31 +0000",
       "biomeswevegone:cika_woods": "2025-07-15 22:03:46 +0000",
       "biomeswevegone:crag_gardens": "2025-07-15 23:06:53 +0000",
       "biomeswevegone:zelkova_forest": "2025-07-15 00:09:48 +0000",
@@ -2307,6 +2308,7 @@
       "minecraft:lukewarm_ocean": "2025-08-02 21:34:15 +0000",
       "minecraft:dripstone_caves": "2025-07-18 23:06:55 +0000",
       "minecraft:forest": "2025-07-15 22:30:04 +0000",
+      "minecraft:jungle": "2025-08-02 22:17:15 +0000",
       "minecraft:ocean": "2025-08-02 21:32:54 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-15 22:50:21 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-02 21:31:56 +0000",
@@ -6187,6 +6189,12 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2025-08-02 20:04:37 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-08-02 22:18:43 +0000"
     },
     "done": true
   },
