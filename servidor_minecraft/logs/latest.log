@@ -1056,3 +1056,28 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 17:41:45.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
 [03Aug2025 17:42:45.565] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
 [03Aug2025 17:42:45.897] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Aug2025 17:44:52.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]
+[03Aug2025 17:47:07.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
+[03Aug2025 17:47:20.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[03Aug2025 17:49:12.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Aug2025 17:50:48.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> g
+[03Aug2025 17:52:09.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set the time to 1000]
+[03Aug2025 17:53:29.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
+[03Aug2025 17:54:28.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[03Aug2025 17:55:34.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[03Aug2025 17:57:53.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[03Aug2025 18:00:58.742] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Aug2025 18:00:58.755] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Aug2025 18:01:11.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[03Aug2025 18:02:54.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[03Aug2025 18:04:15.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[03Aug2025 18:04:16.253] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Aug2025 18:04:16.261] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Aug2025 18:04:39.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[03Aug2025 18:05:16.837] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Aug2025 18:05:16.850] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Aug2025 18:05:27.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[03Aug2025 18:06:28.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Uranium Fever]
+[03Aug2025 18:09:51.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Alex's Caves]
+[03Aug2025 18:11:28.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [It Belongs in a Museum]
+[03Aug2025 18:11:47.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! -7.871449275940904,4.480848779539507,4.815693965411356

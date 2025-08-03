@@ -8806,6 +8806,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-08-03 18:09:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-03 16:27:42 +0000"
@@ -8869,6 +8875,12 @@
   "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
     "criteria": {
       "has_seagrass": "2025-08-03 17:41:47 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-08-03 18:11:28 +0000"
     },
     "done": true
   },
