@@ -666,3 +666,14 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 00:38:49.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
 [03Aug2025 00:54:36.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
 [03Aug2025 00:54:36.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[03Aug2025 01:18:21.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:63458] logged in with entity id 4443 at (-1912.9733675648174, 229.0, -8645.177250362503)
+[03Aug2025 01:18:21.735] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
+[03Aug2025 01:18:21.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
+[03Aug2025 01:18:21.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
+[03Aug2025 01:18:21.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
+[03Aug2025 01:18:21.739] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
+[03Aug2025 01:18:21.743] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
+[03Aug2025 01:18:21.746] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
+[03Aug2025 01:18:21.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[03Aug2025 01:22:10.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[03Aug2025 01:22:10.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
