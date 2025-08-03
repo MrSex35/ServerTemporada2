@@ -667,3 +667,45 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 15:36:31.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elpepe> sexo
 [03Aug2025 15:36:40.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> bien
 [03Aug2025 15:36:53.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elpepe> metete al discord
+[03Aug2025 15:56:29.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -9.809644297034538,0.027134965716101078,-3.3453164514004357
+[03Aug2025 15:56:29.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -10.900539450384713,0.029177134209646738,-3.7173370247594164
+[03Aug2025 15:56:29.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -11.991599019764408,0.03107151945454234,-4.089413667715064
+[03Aug2025 15:56:29.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -13.08281747462729,0.03282846363347858,-4.461544494233777
+[03Aug2025 15:56:29.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -14.174189470460988,0.034457622808361066,-4.833727681722479
+[03Aug2025 15:56:29.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -15.265709842529077,0.03596800821929946,-5.205961468894685
+[03Aug2025 15:56:29.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -16.35737359982454,0.03736802559427588,-5.578244153708454
+[03Aug2025 15:56:29.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -17.449175919225354,0.03866551250430916,-5.9505740913736815
+[03Aug2025 15:56:29.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -18.541112139847883,0.0398677738033939,-6.322949692426306
+[03Aug2025 15:56:29.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -19.633177757588555,0.0409816152014173,-6.695369420867365
+[03Aug2025 15:58:32.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[03Aug2025 15:59:30.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Versatility]
+[03Aug2025 16:03:40.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4143ms or 82 ticks behind
+[03Aug2025 16:04:32.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[03Aug2025 16:05:14.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[03Aug2025 16:05:14.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[03Aug2025 16:05:20.213] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:58513] logged in with entity id 13423 at (-2979.2670960810774, 87.0, -718.4559000416542)
+[03Aug2025 16:05:20.214] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
+[03Aug2025 16:05:20.215] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
+[03Aug2025 16:05:20.215] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
+[03Aug2025 16:05:20.215] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
+[03Aug2025 16:05:20.217] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
+[03Aug2025 16:05:20.220] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
+[03Aug2025 16:05:20.220] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
+[03Aug2025 16:05:20.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[03Aug2025 16:09:22.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[03Aug2025 16:12:00.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[03Aug2025 16:13:07.156] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-4068, y=50, z=-716} but found not block entity block Block{minecraft:water}[level=1] at location
+[03Aug2025 16:13:07.156] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=-4068, y=50, z=-716}
+[03Aug2025 16:17:07.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[03Aug2025 16:18:38.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Knives Out]
+[03Aug2025 16:19:05.328] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:56723] logged in with entity id 19900 at (-1017.9010827090397, 94.0, 564.7100431409832)
+[03Aug2025 16:19:05.329] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JAGlitsh
+[03Aug2025 16:19:05.330] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JAGlitsh
+[03Aug2025 16:19:05.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JAGlitsh
+[03Aug2025 16:19:05.331] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JAGlitsh
+[03Aug2025 16:19:05.333] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JAGlitsh
+[03Aug2025 16:19:05.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JAGlitsh
+[03Aug2025 16:19:05.340] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JAGlitsh
+[03Aug2025 16:19:05.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[03Aug2025 16:20:07.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[03Aug2025 16:20:07.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
