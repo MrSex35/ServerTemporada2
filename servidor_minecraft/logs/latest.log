@@ -1234,3 +1234,10 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 19:25:06.792] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [03Aug2025 19:25:06.796] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [03Aug2025 19:25:10.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was impaled by Deepling
+[03Aug2025 19:25:18.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -9347.500000, 16.500000, 1894.500000]
+[03Aug2025 19:25:33.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has completed the challenge [A Multidimensional Predator]
+[03Aug2025 19:26:01.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[03Aug2025 19:27:28.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[03Aug2025 19:35:01.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]
+[03Aug2025 19:35:06.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[03Aug2025 19:35:09.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
