@@ -4695,9 +4695,10 @@
       "has_prevent_burn": "2025-07-19 15:42:07 +0000",
       "has_prevent_suffocation": "2025-07-19 15:55:33 +0000",
       "has_prevent_lightning": "2025-07-19 17:18:37 +0000",
+      "has_prevent_cold": "2025-08-03 19:22:06 +0000",
       "has_prevent_fall": "2025-08-02 04:47:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/prevent_death_burn": {
     "criteria": {
@@ -7112,6 +7113,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-08-03 19:23:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-03 18:19:07 +0000"
@@ -7127,6 +7134,12 @@
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-03 17:44:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/prevent_death_cold": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 19:22:06 +0000"
     },
     "done": true
   },
@@ -7331,6 +7344,12 @@
   "refurbished_furniture:recipes/misc/slicing/green_dye_from_seagrass": {
     "criteria": {
       "has_seagrass": "2025-08-03 17:44:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 19:10:22 +0000"
     },
     "done": true
   },

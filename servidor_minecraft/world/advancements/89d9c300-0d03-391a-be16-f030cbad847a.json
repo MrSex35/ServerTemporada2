@@ -7082,6 +7082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-08-03 19:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-08-03 17:15:03 +0000"
@@ -7124,6 +7130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_core": "2025-08-03 19:04:44 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-08-03 18:42:39 +0000"
@@ -7157,6 +7169,12 @@
   "tombstone:adventure/use_soulbound": {
     "criteria": {
       "coded_trigger": "2025-08-03 17:27:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-08-03 19:13:08 +0000"
     },
     "done": true
   },
