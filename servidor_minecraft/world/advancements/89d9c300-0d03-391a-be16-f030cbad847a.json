@@ -88,6 +88,7 @@
       "biomeswevegone:forgotten_forest": "2025-07-15 22:19:42 +0000",
       "biomeswevegone:firecracker_chaparral": "2025-08-02 22:24:27 +0000",
       "biomeswevegone:lush_stacks": "2025-08-02 21:33:42 +0000",
+      "biomeswevegone:coconino_meadow": "2025-08-03 03:58:38 +0000",
       "biomeswevegone:black_forest": "2025-07-15 22:04:41 +0000",
       "biomeswevegone:maple_taiga": "2025-07-15 22:06:13 +0000",
       "biomeswevegone:orchard": "2025-07-15 22:14:53 +0000",
@@ -1756,7 +1757,9 @@
       "cooked_porkchop": "2025-08-02 00:21:53 +0000",
       "cooked_mutton": "2025-07-15 22:32:14 +0000",
       "cooked_beef": "2025-07-15 22:46:14 +0000",
+      "baked_potato": "2025-08-03 03:37:27 +0000",
       "apple": "2025-07-15 22:31:43 +0000",
+      "pumpkin_pie": "2025-08-03 03:57:39 +0000",
       "bread": "2025-07-15 22:11:43 +0000",
       "golden_apple": "2025-08-02 22:40:21 +0000"
     },
@@ -2321,8 +2324,10 @@
       "minecraft:river": "2025-07-15 22:14:49 +0000",
       "minecraft:lukewarm_ocean": "2025-08-02 21:34:15 +0000",
       "minecraft:dripstone_caves": "2025-07-18 23:06:55 +0000",
+      "minecraft:snowy_taiga": "2025-08-03 03:28:24 +0000",
       "minecraft:cold_ocean": "2025-08-03 02:31:03 +0000",
       "minecraft:forest": "2025-07-15 22:30:04 +0000",
+      "minecraft:lush_caves": "2025-08-03 03:29:14 +0000",
       "minecraft:jungle": "2025-08-02 22:17:15 +0000",
       "minecraft:ocean": "2025-08-02 21:32:54 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-15 22:50:21 +0000",
@@ -6772,9 +6777,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-08-03 03:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-03 03:52:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-03 03:39:39 +0000"
     },
     "done": true
   },
@@ -6796,6 +6819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 03:52:30 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/redstone/moonstone_pressure_plate": {
     "criteria": {
       "has_item": "2025-08-03 02:56:39 +0000"
@@ -6805,6 +6834,12 @@
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
     "criteria": {
       "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-08-03 03:44:55 +0000"
     },
     "done": true
   },
@@ -6838,9 +6873,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 03:39:39 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
       "has_ingredient": "2025-08-03 02:45:35 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-08-03 03:35:49 +0000"
     },
     "done": true
   },
@@ -6859,6 +6906,12 @@
   "minecraft:recipes/building_blocks/oxidized_cut_copper": {
     "criteria": {
       "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-08-03 03:47:13 +0000"
     },
     "done": true
   },
@@ -6901,6 +6954,12 @@
   "blue_skies:recipes/tools/zeal_lighter": {
     "criteria": {
       "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/melon_slice_from_melon": {
+    "criteria": {
+      "has_melon": "2025-08-03 03:58:35 +0000"
     },
     "done": true
   },
