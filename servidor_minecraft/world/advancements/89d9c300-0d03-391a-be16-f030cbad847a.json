@@ -96,6 +96,7 @@
       "biomeswevegone:weeping_witch_forest": "2025-08-03 02:06:53 +0000",
       "biomeswevegone:prairie": "2025-07-15 22:22:00 +0000",
       "biomeswevegone:ebony_woods": "2025-07-18 23:20:45 +0000",
+      "biomeswevegone:basalt_barrera": "2025-08-03 02:49:03 +0000",
       "biomeswevegone:aspen_boreal": "2025-07-15 22:50:29 +0000",
       "biomeswevegone:dacite_ridges": "2025-07-15 22:04:49 +0000",
       "biomeswevegone:skyrise_vale": "2025-08-01 23:36:45 +0000",
@@ -2313,6 +2314,8 @@
       "minecraft:taiga": "2025-08-03 02:13:07 +0000",
       "minecraft:deep_ocean": "2025-08-03 01:39:52 +0000",
       "minecraft:frozen_river": "2025-08-03 02:30:35 +0000",
+      "minecraft:sunflower_plains": "2025-08-03 03:23:36 +0000",
+      "minecraft:birch_forest": "2025-08-03 02:49:23 +0000",
       "minecraft:beach": "2025-08-02 21:34:20 +0000",
       "minecraft:dark_forest": "2025-08-03 02:03:50 +0000",
       "minecraft:river": "2025-07-15 22:14:49 +0000",
@@ -2909,6 +2912,7 @@
       "minecraft:ghast": "2025-08-02 01:01:25 +0000",
       "minecraft:hoglin": "2025-08-02 01:06:30 +0000",
       "minecraft:piglin_brute": "2025-08-02 01:05:25 +0000",
+      "minecraft:spider": "2025-08-03 03:05:05 +0000",
       "minecraft:phantom": "2025-08-03 01:43:12 +0000",
       "minecraft:witch": "2025-08-02 22:28:48 +0000",
       "minecraft:wither_skeleton": "2025-08-02 20:08:31 +0000",
@@ -6738,9 +6742,69 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-08-03 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-08-03 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-03 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
     },
     "done": true
   },
@@ -6750,9 +6814,57 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-08-03 02:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-03 02:45:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/sea_salt": {
+    "criteria": {
+      "has_ingredient": "2025-08-03 02:45:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/comet_spear": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-08-03 02:56:39 +0000"
     },
     "done": true
   },
@@ -6762,15 +6874,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-03 02:53:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-08-03 02:54:08 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-08-03 02:34:54 +0000"
     },
     "done": true
   },
+  "refurbished_furniture:recipes/food/dough": {
+    "criteria": {
+      "has_water": "2025-08-03 02:45:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-08-03 02:13:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-08-03 02:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
     },
     "done": true
   },
@@ -6795,6 +6943,12 @@
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_wood": "2025-08-03 02:13:38 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-08-03 02:54:08 +0000"
     },
     "done": true
   },
