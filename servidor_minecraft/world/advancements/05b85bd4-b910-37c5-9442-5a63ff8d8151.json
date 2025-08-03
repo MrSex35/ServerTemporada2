@@ -1595,6 +1595,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-03 04:02:47 +0000",
       "minecraft:skeleton": "2025-07-15 01:16:33 +0000",
       "minecraft:vindicator": "2025-07-19 21:35:26 +0000",
       "minecraft:spider": "2025-07-15 00:54:29 +0000",
@@ -6928,6 +6929,78 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 04:04:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 04:04:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 04:04:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 04:04:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 04:04:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 04:04:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 04:04:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 04:04:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 04:04:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 04:04:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 04:04:34 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 04:04:34 +0000"
+    },
+    "done": false
+  },
   "alexsmobs:alexsmobs/spiked_turtle_shell": {
     "criteria": {
       "spiked_turtle_shell": "2025-08-03 04:00:35 +0000"
@@ -6955,6 +7028,12 @@
   "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
     "criteria": {
       "has_block": "2025-08-03 03:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-03 04:02:52 +0000"
     },
     "done": true
   },

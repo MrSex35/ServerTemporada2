@@ -1530,3 +1530,42 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 03:58:59.908] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [03Aug2025 03:59:02.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5363ms or 107 ticks behind
 [03Aug2025 04:00:35.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has completed the challenge [Turtle-ology Majors Be Like]
+[03Aug2025 04:02:03.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[03Aug2025 04:02:15.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[03Aug2025 04:02:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Voluntary Exile]
+[03Aug2025 04:03:41.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[03Aug2025 04:03:41.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[03Aug2025 04:03:49.477] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[03Aug2025 04:03:49.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[03Aug2025 04:04:36.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh lost connection: Disconnected
+[03Aug2025 04:04:36.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh left the game
+[03Aug2025 04:04:47.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[03Aug2025 04:04:47.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[03Aug2025 04:04:47.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[03Aug2025 04:04:47.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[03Aug2025 04:04:48.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03Aug2025 04:04:53.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everbright
+[03Aug2025 04:04:53.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[03Aug2025 04:04:53.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[03Aug2025 04:04:53.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[03Aug2025 04:04:53.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/macabre:the_pit
+[03Aug2025 04:04:53.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/blue_skies:everdawn
+[03Aug2025 04:04:53.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/macabre:limbo
+[03Aug2025 04:04:53.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[03Aug2025 04:04:53.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[03Aug2025 04:04:53.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[03Aug2025 04:04:54.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03Aug2025 04:04:54.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everbright): All chunks are saved
+[03Aug2025 04:04:54.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03Aug2025 04:04:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03Aug2025 04:04:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[03Aug2025 04:04:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_pit): All chunks are saved
+[03Aug2025 04:04:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (everdawn): All chunks are saved
+[03Aug2025 04:04:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (limbo): All chunks are saved
+[03Aug2025 04:04:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[03Aug2025 04:04:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[03Aug2025 04:04:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[03Aug2025 04:04:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03Aug2025 04:04:54.753] [Server thread/INFO] [Framework/]: Unloading server configs...
+[03Aug2025 04:04:54.754] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[03Aug2025 04:04:54.758] [Server thread/INFO] [Framework/]: Finished unloading server configs
