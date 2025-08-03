@@ -664,3 +664,5 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 00:38:20.578] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
 [03Aug2025 00:38:20.615] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
 [03Aug2025 00:38:49.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[03Aug2025 00:54:36.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[03Aug2025 00:54:36.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
