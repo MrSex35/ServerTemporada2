@@ -1243,3 +1243,6 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 19:35:09.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
 [03Aug2025 19:36:34.756] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 95.32 μs. 127/128 recipes are parallelized.
 [03Aug2025 19:38:31.393] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 1.261 ms. 249/249 recipes are parallelized.
+[03Aug2025 19:48:31.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
+[03Aug2025 19:50:26.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[03Aug2025 19:56:10.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Fishy Business]

@@ -7094,6 +7094,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "salmon": "2025-08-03 19:56:10 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_magic_impregnation": {
     "criteria": {
       "coded_trigger": "2025-08-03 17:28:16 +0000"
