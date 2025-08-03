@@ -1307,3 +1307,134 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 20:45:20.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
 [03Aug2025 20:45:22.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
 [03Aug2025 20:45:28.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[03Aug2025 20:47:21.730] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/270192, l='ServerLevel[world]', x=-9501.50, y=6.00, z=1723.50]
+[03Aug2025 20:48:50.548] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[03Aug2025 20:48:50.566] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[03Aug2025 20:49:43.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 0.37002696234412724
+[03Aug2025 20:49:44.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:49:45.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:49:45.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:49:47.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:49:48.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:49:50.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:49:51.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:49:52.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:49:53.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:49:53.981] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:49:54.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:49:57.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! 0.8329569159941457,1.8591443138241175,10.8745144256186
+[03Aug2025 20:49:58.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:49:59.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:00.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:01.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:02.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:02.991] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:04.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:06.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved wrongly! 0.2510007255216351
+[03Aug2025 20:50:09.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:10.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:10.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:11.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:13.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:14.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:16.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:18.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:19.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:21.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:22.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:23.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:24.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:25.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:26.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:27.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:30.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:31.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:32.150] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:33.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:35.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:36.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:36.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:37.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:38.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:39.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:40.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:40.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:42.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:42.933] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:43.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:45.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:45.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:46.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:47.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:47.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:48.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:49.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:51.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:52.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:52.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:53.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:54.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:55.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:56.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:57.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:58.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:50:59.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:51:05.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! 0.0,-17.20185354728102,0.0
+[03Aug2025 20:51:28.441] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[03Aug2025 20:51:28.444] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[03Aug2025 20:51:42.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to elpepe]
+[03Aug2025 20:52:04.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[03Aug2025 20:52:08.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! 0.0,-16.995443045553543,0.0
+[03Aug2025 20:52:08.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 1.4756265386913583,-9.024013024827582E-6,-10.164428883611663
+[03Aug2025 20:52:08.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 1.6294445750336308,-1.0026681138697313E-5,-11.297861890445802
+[03Aug2025 20:52:08.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 1.7819231937501172,-1.1029349252567044E-5,-12.431942478914834
+[03Aug2025 20:52:08.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 1.933203520702591,-1.2032017366436776E-5,-13.566635574566817
+[03Aug2025 20:52:08.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.083414912172884,-1.3034685480306507E-5,-14.701908405323138
+[03Aug2025 20:52:08.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.232662862921643,-1.4037353594176238E-5,-15.837731971297444
+[03Aug2025 20:52:08.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.3810531693088706,-1.504002170804597E-5,-16.974077924199946
+[03Aug2025 20:52:08.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.528684497474387,-1.60426898219157E-5,-18.110919460193372
+[03Aug2025 20:52:08.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 2.6756356596160913,-1.7045357935785432E-5,-19.248232850497516
+[03Aug2025 20:52:08.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 1.5016747308891354,-1.0026681138697313E-5,-11.354313266554527
+[03Aug2025 20:52:08.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 1.6474918814183184,-1.1029349252567044E-5,-12.492502619113111
+[03Aug2025 20:52:08.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 1.792835674534217,-1.2032017366436776E-5,-13.631099524265892
+[03Aug2025 20:52:15.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[03Aug2025 20:52:22.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[03Aug2025 20:52:28.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa fell from a high place
+[03Aug2025 20:52:33.174] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Aug2025 20:52:33.238] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Aug2025 20:52:52.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]
+[03Aug2025 20:53:01.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh fell from a high place
+[03Aug2025 20:53:12.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[03Aug2025 20:54:33.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 3.1623395880833414,1.93930251839447E-5,-9.872664786862288
+[03Aug2025 20:54:33.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 3.5357350644499093,2.0449036298941792E-5,-10.96292953815373
+[03Aug2025 20:54:33.593] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 3.915559002831287,2.134445679757846E-5,-12.051014883164953
+[03Aug2025 20:54:33.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! 4.3017681463588815,2.20917928857034E-5,-13.13689376636296
+[03Aug2025 20:55:44.273] [Worker-Main-260/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[03Aug2025 20:55:44.274] [Worker-Main-260/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03Aug2025 20:55:44.289] [Worker-Main-260/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[03Aug2025 20:55:44.289] [Worker-Main-260/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[03Aug2025 20:55:54.417] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:55:54.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:55:54.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:55:54.418] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:55:55.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:55:55.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:55:55.288] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:55:55.912] [Worker-Main-59/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-8398, y=16, z=395}
+[03Aug2025 20:55:55.912] [Worker-Main-59/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-8395, y=16, z=390}
+[03Aug2025 20:55:55.912] [Worker-Main-59/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-8398, y=17, z=394}
+[03Aug2025 20:55:55.926] [Worker-Main-35/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-8374, y=19, z=392}
+[03Aug2025 20:56:43.451] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:56:48.057] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:56:48.062] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:56:51.679] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:56:51.679] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:56:51.679] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:56:51.828] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:56:54.778] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:56:55.228] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:56:55.229] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:56:55.230] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:56:55.230] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:56:55.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 20:56:55.537] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
