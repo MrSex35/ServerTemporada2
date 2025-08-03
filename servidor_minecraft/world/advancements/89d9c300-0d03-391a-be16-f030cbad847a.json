@@ -7122,5 +7122,11 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-08-03 18:17:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

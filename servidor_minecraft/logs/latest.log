@@ -1081,3 +1081,10 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 18:09:51.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Alex's Caves]
 [03Aug2025 18:11:28.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [It Belongs in a Museum]
 [03Aug2025 18:11:47.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! -7.871449275940904,4.480848779539507,4.815693965411356
+[03Aug2025 18:15:23.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has reached the goal [Horror of the Depths]
+[03Aug2025 18:15:46.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[03Aug2025 18:17:01.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[03Aug2025 18:17:08.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Waterworld]
+[03Aug2025 18:18:01.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-9611, y=-59, z=1536} BlockPos{x=-9610, y=-59, z=1536}
+[03Aug2025 18:18:01.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[03Aug2025 18:21:23.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]

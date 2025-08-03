@@ -8908,6 +8908,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-08-03 18:15:23 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
     "criteria": {
       "has_item": "2025-08-03 17:22:08 +0000"
