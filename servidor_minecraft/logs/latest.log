@@ -1241,3 +1241,5 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 19:35:01.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]
 [03Aug2025 19:35:06.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
 [03Aug2025 19:35:09.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[03Aug2025 19:36:34.756] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smithing in 95.32 μs. 127/128 recipes are parallelized.
+[03Aug2025 19:38:31.393] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 1.261 ms. 249/249 recipes are parallelized.
