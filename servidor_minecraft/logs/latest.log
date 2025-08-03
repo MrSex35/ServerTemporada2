@@ -653,3 +653,17 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 15:17:48.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
 [03Aug2025 15:17:50.529] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Not Installed for use
 [03Aug2025 15:21:23.761] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.199 ms. 5487/5648 recipes are parallelized.
+[03Aug2025 15:35:32.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:57806] logged in with entity id 5753 at (-1023.8473748935176, 94.0, 570.7424618923444)
+[03Aug2025 15:35:32.380] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Misterchuwa
+[03Aug2025 15:35:32.382] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Misterchuwa
+[03Aug2025 15:35:32.384] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Misterchuwa
+[03Aug2025 15:35:32.385] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Misterchuwa
+[03Aug2025 15:35:32.391] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Misterchuwa
+[03Aug2025 15:35:32.397] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Misterchuwa
+[03Aug2025 15:35:32.398] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
+[03Aug2025 15:35:32.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[03Aug2025 15:36:21.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> mmmmmmmmmmmmmmmmmmmm
+[03Aug2025 15:36:25.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> y el maricon de jose
+[03Aug2025 15:36:31.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elpepe> sexo
+[03Aug2025 15:36:40.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> bien
+[03Aug2025 15:36:53.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elpepe> metete al discord
