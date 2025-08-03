@@ -1246,3 +1246,12 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 19:48:31.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
 [03Aug2025 19:50:26.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
 [03Aug2025 19:56:10.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Fishy Business]
+[03Aug2025 20:08:24.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set the time to 1000]
+[03Aug2025 20:12:19.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:12:25.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 20:21:38.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -9365.500000, 19.500000, 1790.500000]
+[03Aug2025 20:21:47.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[03Aug2025 20:22:19.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[03Aug2025 20:24:02.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
+[03Aug2025 20:25:10.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[03Aug2025 20:26:17.430] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MossyGolemEntity['Gerardo'/222305, l='ServerLevel[world]', x=-9364.00, y=19.97, z=1849.99] died: Gerardo drowned
