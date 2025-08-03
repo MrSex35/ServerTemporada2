@@ -1043,3 +1043,16 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 17:14:33.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
 [03Aug2025 17:15:16.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
 [03Aug2025 17:21:19.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Aug2025 17:27:58.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Soulbound]
+[03Aug2025 17:28:16.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Magic Impregnation]
+[03Aug2025 17:33:55.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Aug2025 17:34:59.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 17:34:59.431] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 17:34:59.481] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 17:36:51.283] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 17:41:33.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20225ms or 404 ticks behind
+[03Aug2025 17:41:33.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! -6.334552791578403,-0.49520087700591375,-8.020249843651072
+[03Aug2025 17:41:33.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! -8.12016854666581,4.243770309272293,4.873646598425012
+[03Aug2025 17:41:45.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 17:42:45.565] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Aug2025 17:42:45.897] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved

@@ -7085,6 +7085,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_magic_impregnation": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 17:28:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-08-03 17:15:03 +0000"
@@ -7100,6 +7106,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-08-03 17:15:03 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_soulbound": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 17:27:58 +0000"
     },
     "done": true
   },
