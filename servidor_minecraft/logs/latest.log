@@ -652,3 +652,4 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 15:17:48.541] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
 [03Aug2025 15:17:48.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
 [03Aug2025 15:17:50.529] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Not Installed for use
+[03Aug2025 15:21:23.761] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 5.199 ms. 5487/5648 recipes are parallelized.
