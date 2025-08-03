@@ -7110,15 +7110,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-03 18:32:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-08-03 17:15:03 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-08-03 18:32:15 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/use_soulbound": {
     "criteria": {
       "coded_trigger": "2025-08-03 17:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-03 18:32:15 +0000"
     },
     "done": true
   },
