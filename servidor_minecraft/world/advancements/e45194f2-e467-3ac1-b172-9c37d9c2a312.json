@@ -111,6 +111,7 @@
       "biomeswevegone:allium_shrubland": "2025-07-15 01:01:54 +0000",
       "biomeswevegone:tropical_rainforest": "2025-08-02 01:53:04 +0000",
       "biomeswevegone:baobab_savanna": "2025-08-02 01:28:29 +0000",
+      "biomeswevegone:crimson_tundra": "2025-08-03 16:34:57 +0000",
       "biomeswevegone:rainbow_beach": "2025-07-15 16:59:58 +0000"
     },
     "done": false
@@ -1445,9 +1446,11 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-02 22:06:40 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-15 17:09:36 +0000",
+      "minecraft:mushroom_fields": "2025-08-03 17:09:10 +0000",
       "minecraft:taiga": "2025-07-16 16:34:05 +0000",
       "minecraft:deep_ocean": "2025-08-02 02:29:06 +0000",
       "minecraft:eroded_badlands": "2025-08-02 03:24:29 +0000",
+      "minecraft:frozen_river": "2025-08-03 16:37:34 +0000",
       "minecraft:cherry_grove": "2025-07-19 20:52:14 +0000",
       "minecraft:sunflower_plains": "2025-08-02 01:33:57 +0000",
       "minecraft:birch_forest": "2025-08-02 05:05:53 +0000",
@@ -1462,17 +1465,24 @@
       "minecraft:lukewarm_ocean": "2025-07-15 16:47:32 +0000",
       "minecraft:stony_shore": "2025-07-15 01:01:01 +0000",
       "minecraft:dripstone_caves": "2025-07-15 03:53:18 +0000",
+      "minecraft:snowy_taiga": "2025-08-03 16:37:36 +0000",
       "minecraft:swamp": "2025-07-16 16:47:04 +0000",
+      "minecraft:cold_ocean": "2025-08-03 16:32:00 +0000",
       "minecraft:forest": "2025-07-15 15:41:25 +0000",
+      "minecraft:deep_cold_ocean": "2025-08-03 16:40:16 +0000",
+      "minecraft:frozen_ocean": "2025-08-03 16:32:33 +0000",
       "minecraft:desert": "2025-08-02 01:57:32 +0000",
+      "minecraft:deep_frozen_ocean": "2025-08-03 16:32:53 +0000",
       "minecraft:ocean": "2025-07-15 16:44:30 +0000",
       "minecraft:jungle": "2025-07-16 15:20:15 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-15 16:25:25 +0000",
+      "minecraft:snowy_beach": "2025-08-03 16:34:04 +0000",
       "minecraft:windswept_savanna": "2025-08-02 01:30:59 +0000",
       "minecraft:warm_ocean": "2025-08-02 02:00:24 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-02 02:00:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-15 16:30:32 +0000",
       "minecraft:meadow": "2025-07-15 15:40:48 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-08-03 16:38:46 +0000",
       "minecraft:savanna": "2025-07-15 16:50:38 +0000",
       "minecraft:plains": "2025-07-15 01:11:09 +0000"
     },
@@ -3507,6 +3517,7 @@
       "minecraft:witch": "2025-07-19 22:20:57 +0000",
       "minecraft:cave_spider": "2025-07-16 01:29:02 +0000",
       "minecraft:piglin": "2025-08-02 01:41:49 +0000",
+      "minecraft:enderman": "2025-08-03 17:19:50 +0000",
       "minecraft:zombie": "2025-07-15 03:45:51 +0000",
       "minecraft:zombie_villager": "2025-07-16 00:35:38 +0000"
     },
@@ -8780,6 +8791,96 @@
   "tombstone:adventure/versatility": {
     "criteria": {
       "coded_trigger": "2025-08-03 15:59:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/desolate_dagger": {
+    "criteria": {
+      "desolate_dagger": "2025-08-03 16:18:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-03 16:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-03 16:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-03 16:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-03 17:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-08-03 16:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-03 16:27:42 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-08-03 17:22:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
+    "criteria": {
+      "has_slime_block": "2025-08-03 16:26:09 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-08-03 17:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-03 16:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-08-03 17:22:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-08-03 17:22:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-08-03 17:22:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-08-03 16:27:42 +0000"
     },
     "done": true
   },
