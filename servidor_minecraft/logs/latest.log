@@ -1255,3 +1255,21 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 20:24:02.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
 [03Aug2025 20:25:10.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
 [03Aug2025 20:26:17.430] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MossyGolemEntity['Gerardo'/222305, l='ServerLevel[world]', x=-9364.00, y=19.97, z=1849.99] died: Gerardo drowned
+[03Aug2025 20:28:20.936] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Aug2025 20:28:20.941] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Aug2025 20:28:28.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh drowned whilst trying to escape The Leviathan
+[03Aug2025 20:28:28.047] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Aug2025 20:29:28.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
+[03Aug2025 20:29:40.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[03Aug2025 20:31:19.642] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Aug2025 20:31:19.647] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Aug2025 20:32:03.836] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[03Aug2025 20:32:03.840] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[03Aug2025 20:32:04.586] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Aug2025 20:32:04.589] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Aug2025 20:32:19.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was killed by The Leviathan using magic
+[03Aug2025 20:32:38.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was killed by The Leviathan using magic
+[03Aug2025 20:32:56.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved too quickly! -0.3632263566923939,-36.0,-3.09577169613749
+[03Aug2025 20:33:58.632] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Aug2025 20:33:58.638] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Aug2025 20:35:24.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has completed the challenge [A Multidimensional Predator]
