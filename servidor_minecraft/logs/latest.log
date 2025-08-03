@@ -1089,3 +1089,37 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 18:18:01.553] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
 [03Aug2025 18:21:23.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
 [03Aug2025 18:26:14.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Alex's Caves]
+[03Aug2025 18:35:31.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[03Aug2025 18:36:33.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe has made the advancement [Sunken in the Sea]
+[03Aug2025 18:42:12.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Aug2025 18:42:12.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has made the advancement [Sunken in the Sea]
+[03Aug2025 18:42:38.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[03Aug2025 18:42:39.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has made the advancement [Sunken in the Sea]
+[03Aug2025 18:42:45.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! 1.9369851461669896,4.160228308549428,9.371581402646825
+[03Aug2025 18:42:46.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[03Aug2025 18:43:16.790] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Aug2025 18:43:16.803] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Aug2025 18:43:18.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! -3.9853082262361568,-62.0,2.5738546320951627
+[03Aug2025 18:43:24.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has left this dimension
+[03Aug2025 18:43:24.911] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Aug2025 18:44:16.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Aug2025 18:48:10.125] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 28703ms or 574 ticks behind
+[03Aug2025 18:48:10.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! -0.8249970187680447,-2.569968364748327,9.65885981628071
+[03Aug2025 18:48:10.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> g
+[03Aug2025 18:48:31.439] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Aug2025 18:48:31.446] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Aug2025 18:49:31.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was slain by Deepling Brute
+[03Aug2025 18:53:13.792] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Aug2025 18:53:13.796] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Aug2025 18:53:23.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Aug2025 18:54:29.436] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Aug2025 18:54:29.439] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Aug2025 18:54:35.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Aug2025 18:55:01.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh drowned
+[03Aug2025 18:55:01.295] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Aug2025 18:56:07.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[03Aug2025 18:58:36.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
+[03Aug2025 19:00:53.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]
+[03Aug2025 19:02:18.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Creative Mode]
+[03Aug2025 19:03:24.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Set own game mode to Survival Mode]
+[03Aug2025 19:04:20.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]

@@ -1761,7 +1761,8 @@
       "apple": "2025-07-15 22:31:43 +0000",
       "pumpkin_pie": "2025-08-03 03:57:39 +0000",
       "bread": "2025-07-15 22:11:43 +0000",
-      "golden_apple": "2025-08-02 22:40:21 +0000"
+      "golden_apple": "2025-08-02 22:40:21 +0000",
+      "golden_carrot": "2025-08-03 18:47:30 +0000"
     },
     "done": false
   },
@@ -2333,6 +2334,7 @@
       "minecraft:ocean": "2025-08-02 21:32:54 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-15 22:50:21 +0000",
       "minecraft:snowy_beach": "2025-08-03 02:30:30 +0000",
+      "minecraft:warm_ocean": "2025-08-03 18:35:32 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-08-02 22:45:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-08-02 21:31:56 +0000",
       "minecraft:meadow": "2025-07-15 22:30:02 +0000",
@@ -7104,6 +7106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-08-03 18:45:58 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-08-03 16:38:05 +0000"
@@ -7116,6 +7124,12 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-08-03 18:42:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-08-03 17:15:03 +0000"
@@ -7125,6 +7139,18 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-08-03 18:32:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2025-08-03 18:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-08-03 18:45:26 +0000"
     },
     "done": true
   },
@@ -7143,6 +7169,12 @@
   "tombstone:adventure/use_aquatic_life": {
     "criteria": {
       "has_magic_scroll": "2025-08-03 18:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-08-03 18:45:32 +0000"
     },
     "done": true
   },
