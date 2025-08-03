@@ -799,3 +799,80 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 01:37:40.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.17624973220790707,-35.04563247322659,1.3549590945713135
 [03Aug2025 01:37:40.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.18087444080492787,-35.22932937184976,1.4447915259233923
 [03Aug2025 01:37:53.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
+[03Aug2025 01:38:50.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> fg
+[03Aug2025 01:38:51.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[03Aug2025 01:38:51.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
+[03Aug2025 01:38:57.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:54732] logged in with entity id 5738 at (-2130.3580791027043, 175.10972595214844, 5149.278822460577)
+[03Aug2025 01:38:57.112] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Misterchuwa
+[03Aug2025 01:38:57.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Misterchuwa
+[03Aug2025 01:38:57.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Misterchuwa
+[03Aug2025 01:38:57.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Misterchuwa
+[03Aug2025 01:38:57.115] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Misterchuwa
+[03Aug2025 01:38:57.117] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Misterchuwa
+[03Aug2025 01:38:57.118] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
+[03Aug2025 01:38:57.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[03Aug2025 01:39:54.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -1.0807197983590413,-4.1591957824493875E-6,10.04049668337484
+[03Aug2025 01:39:54.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -1.1321089246380325,-4.3482501297376075E-6,10.491883778446208
+[03Aug2025 01:40:59.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 01:41:41.858] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.784 ms. 5487/5648 recipes are parallelized.
+[03Aug2025 01:45:13.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 01:45:16.952] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[03Aug2025 01:45:17.005] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[03Aug2025 01:45:52.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Silverfish
+[03Aug2025 01:46:18.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! 3.198275208580071,4.6260752362476865,-10.038232190537201
+[03Aug2025 01:46:21.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! -6.067119963389814,3.4123407971623863,7.5071970372546275
+[03Aug2025 01:47:07.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! -8.99705224369427,3.169671739195337,-3.7603743758199926
+[03Aug2025 01:47:19.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! 2.0330838195709475,-6.959277788386743,8.151812772932317
+[03Aug2025 01:47:29.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! 3.1719269278382853,-1.4456756880737487,-9.823566841341744
+[03Aug2025 01:47:37.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! 0.5468499758776488,-10.619108898072867,4.2473655743970085
+[03Aug2025 01:48:56.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:64386] logged in with entity id 15366 at (-1912.9733675648174, 229.0, -8645.177250362503)
+[03Aug2025 01:48:56.041] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
+[03Aug2025 01:48:56.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
+[03Aug2025 01:48:56.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
+[03Aug2025 01:48:56.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
+[03Aug2025 01:48:56.044] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
+[03Aug2025 01:48:56.046] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
+[03Aug2025 01:48:56.046] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
+[03Aug2025 01:48:56.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[03Aug2025 01:49:38.258] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[03Aug2025 01:49:38.267] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[03Aug2025 01:50:05.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Deepling Angler
+[03Aug2025 01:50:06.914] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 01:50:36.658] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[03Aug2025 01:50:36.666] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[03Aug2025 01:51:07.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Silverfish
+[03Aug2025 01:51:40.508] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[03Aug2025 01:51:40.517] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[03Aug2025 01:52:15.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 01:52:22.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Skeleton
+[03Aug2025 01:53:42.111] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[03Aug2025 01:53:42.116] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[03Aug2025 01:53:48.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Silverfish
+[03Aug2025 01:54:24.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:51885] logged in with entity id 22978 at (-1024.439178632119, 124.0, 583.6617278315955)
+[03Aug2025 01:54:24.489] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JAGlitsh
+[03Aug2025 01:54:24.489] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JAGlitsh
+[03Aug2025 01:54:24.490] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JAGlitsh
+[03Aug2025 01:54:24.490] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JAGlitsh
+[03Aug2025 01:54:24.492] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JAGlitsh
+[03Aug2025 01:54:24.493] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JAGlitsh
+[03Aug2025 01:54:24.494] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JAGlitsh
+[03Aug2025 01:54:24.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[03Aug2025 01:54:24.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 01:56:25.967] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Aug2025 01:56:25.979] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Aug2025 01:57:25.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[03Aug2025 01:57:30.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3212ms or 64 ticks behind
+[03Aug2025 01:58:08.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.9842619678083793,-3.97014129305262E-6,10.197174459950475
+[03Aug2025 01:58:08.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.0263480175481163,-4.15919564034084E-6,10.686831055959374
+[03Aug2025 01:58:08.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.0680540515029406,-4.34824998762906E-6,11.176798267675622
+[03Aug2025 01:58:08.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.1093882729460347,-4.53730433491728E-6,11.66706869425252
+[03Aug2025 01:58:08.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.1503655883582269,-4.7263586822055E-6,12.157634586414133
+[03Aug2025 01:58:08.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.1910024456717565,-4.91541302949372E-6,12.6484882400664
+[03Aug2025 01:58:08.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.2313120496564807,-5.10446737678194E-6,13.139622290336774
+[03Aug2025 01:58:08.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.2713093433683298,-5.29352172407016E-6,13.631029394705365
+[03Aug2025 01:58:08.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.3110105897458197,-5.4825760713583804E-6,14.122702254258002
+[03Aug2025 01:58:08.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.3504332432567026,-5.6716304186466004E-6,14.61463364273095
+[03Aug2025 01:58:08.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.38959562994296,-5.8606847659348205E-6,15.106816419071038
+[03Aug2025 01:58:08.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.4285210958714742,-6.0497391132230405E-6,15.599243258196111
+[03Aug2025 01:58:08.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.4672287052910633,-6.2387934605112605E-6,16.09190728087742
+[03Aug2025 01:58:08.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.5057380006965104,-6.4278478077994805E-6,16.584801716306174
