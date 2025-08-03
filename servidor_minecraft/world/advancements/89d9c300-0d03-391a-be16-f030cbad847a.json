@@ -7196,6 +7196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-08-03 20:37:05 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_all_bosses": {
     "criteria": {
       "cataclysm:the_leviathan": "2025-08-03 19:25:33 +0000"

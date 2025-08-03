@@ -1273,3 +1273,37 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 [03Aug2025 20:33:58.632] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
 [03Aug2025 20:33:58.638] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
 [03Aug2025 20:35:24.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh has completed the challenge [A Multidimensional Predator]
+[03Aug2025 20:38:50.582] [Server thread/WARN] [tombstone/]: The death event of the player JAGlitsh was canceled by another mod
+[03Aug2025 20:38:50.601] [Server thread/INFO] [tombstone/]: The player JAGlitsh has successfully been saved
+[03Aug2025 20:39:04.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]
+[03Aug2025 20:39:12.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh was shot by Misterchuwa using [Caña de pescar]
+[03Aug2025 20:41:05.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to elpepe]
+[03Aug2025 20:42:13.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[03Aug2025 20:42:28.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[03Aug2025 20:43:21.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported Misterchuwa to JAGlitsh]
+[03Aug2025 20:43:26.536] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[03Aug2025 20:43:26.545] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[03Aug2025 20:43:26.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[03Aug2025 20:43:39.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[03Aug2025 20:44:05.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -9.76088684028764,2.842904456482316,2.9101802248194417
+[03Aug2025 20:44:05.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -10.816409566228685,3.1596741986153773,3.319324803622976
+[03Aug2025 20:44:05.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -11.867317894737425,3.4765765364790298,3.7410047130110797
+[03Aug2025 20:44:05.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -12.913973383921984,3.7936016455527266,4.1741412152678095
+[03Aug2025 20:44:05.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -13.956729689536587,4.110740421942225,4.617729025942026
+[03Aug2025 20:44:05.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -14.995925209452253,4.427984429037124,5.070841838324441
+[03Aug2025 20:44:05.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -16.03188753827999,4.745325851259196,5.532615674806493
+[03Aug2025 20:44:05.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -17.064927913166684,5.062757452781113,6.002253151735431
+[03Aug2025 20:44:05.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -18.09533803242448,5.380272527787696,6.479023834939426
+[03Aug2025 20:44:05.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -19.123392157252965,5.697864866858467,6.962255239280239
+[03Aug2025 20:44:05.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -20.149421403903034,6.015528723604106,7.451185999690779
+[03Aug2025 20:44:05.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -21.17400314970655,6.333258775948707,7.9445980599412
+[03Aug2025 20:44:05.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -22.19789445789138,6.65105009708158,8.44093015081512
+[03Aug2025 20:44:05.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -14.521577172059551,4.4426202156197405,6.423662449336462
+[03Aug2025 20:44:05.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -15.546733667319131,4.760520738781693,6.920306942294928
+[03Aug2025 20:44:50.882] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -3.3884501949505648,-9.474389813135531E-6,9.803765519504168
+[03Aug2025 20:44:50.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Warship (vehicle of elpepe) moved too quickly! -3.7581489001386217,-1.0509614298825909E-5,10.89625504520518
+[03Aug2025 20:44:57.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[03Aug2025 20:45:08.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to -1023.500000, 94.500000, 566.500000]
+[03Aug2025 20:45:20.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
+[03Aug2025 20:45:22.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved wrongly!
+[03Aug2025 20:45:28.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported JAGlitsh to Misterchuwa]
