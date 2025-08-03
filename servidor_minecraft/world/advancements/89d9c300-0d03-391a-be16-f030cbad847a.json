@@ -6747,99 +6747,39 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
-      "log_spam_fixer": "2025-08-03 04:03:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:03:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:03:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:03:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:03:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:03:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:03:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:03:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:03:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:03:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:03:34 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-08-03 04:03:34 +0000"
-    },
-    "done": false
-  },
-  "dungeons_arise:find_illager_corsair_or_illager_galley": {
-    "criteria": {
-      "location0": "2025-08-03 03:11:29 +0000"
+      "has_carrot": "2025-08-03 02:11:05 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/combat/bluebright_spear": {
+  "mcwfurnitures:recipes/spruce": {
     "criteria": {
-      "has_item": "2025-08-03 02:56:39 +0000"
+      "has_wood": "2025-08-03 02:13:38 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
+  "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
-      "has_item": "2025-08-03 04:03:33 +0000"
+      "has_log": "2025-08-03 02:13:38 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
+      "has_logs": "2025-08-03 02:13:38 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-08-03 02:13:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-08-03 02:14:45 +0000"
     },
     "done": true
   },
@@ -6849,39 +6789,45 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/maple_spear": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "has_item": "2025-08-03 02:56:39 +0000"
+      "coded_trigger": "2025-08-03 02:23:03 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/root": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "underground_cabin": "2025-08-03 03:38:23 +0000"
+      "has_bow": "2025-08-03 02:34:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
-      "has_stripped_logs": "2025-08-03 03:52:30 +0000"
+      "has_bow": "2025-08-03 02:34:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
+      "has_water_bucket": "2025-08-03 02:45:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/oak_hanging_sign": {
+  "refurbished_furniture:recipes/baking/sea_salt": {
     "criteria": {
-      "has_stripped_logs": "2025-08-03 03:39:39 +0000"
+      "has_ingredient": "2025-08-03 02:45:35 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/combat/frostbright_spear": {
+  "refurbished_furniture:recipes/food/dough": {
     "criteria": {
-      "has_item": "2025-08-03 02:56:39 +0000"
+      "has_water": "2025-08-03 02:45:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/ice": {
+    "criteria": {
+      "has_ingredient": "2025-08-03 02:45:35 +0000"
     },
     "done": true
   },
@@ -6891,21 +6837,21 @@
     },
     "done": true
   },
-  "blue_skies:recipes/combat/lunar_spear": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_item": "2025-08-03 02:56:39 +0000"
+      "has_dandelion": "2025-08-03 02:53:04 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_from_oxidized_copper_stonecutting": {
     "criteria": {
-      "has_log": "2025-08-03 03:52:30 +0000"
+      "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab_from_oxidized_copper_stonecutting": {
     "criteria": {
-      "has_item": "2025-08-03 02:56:39 +0000"
+      "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
     },
     "done": true
   },
@@ -6915,15 +6861,57 @@
     },
     "done": true
   },
-  "dungeons_arise:find_abandoned_temple": {
+  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
     "criteria": {
-      "location0": "2025-08-03 03:44:55 +0000"
+      "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
     },
     "done": true
   },
-  "mcwfurnitures:recipes/spruce": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
     "criteria": {
-      "has_wood": "2025-08-03 02:13:38 +0000"
+      "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-08-03 02:54:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-08-03 02:54:08 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/redstone/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-08-03 02:56:39 +0000"
     },
     "done": true
   },
@@ -6939,36 +6927,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-08-03 02:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-08-03 02:45:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_oak_wood": {
-    "criteria": {
-      "has_log": "2025-08-03 03:39:39 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/baking/sea_salt": {
-    "criteria": {
-      "has_ingredient": "2025-08-03 02:45:35 +0000"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-08-03 03:35:49 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/combat/starlit_spear": {
     "criteria": {
       "has_item": "2025-08-03 02:56:39 +0000"
@@ -6981,57 +6939,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper": {
-    "criteria": {
-      "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
-    "criteria": {
-      "has_dye_tag": "2025-08-03 03:47:13 +0000"
-    },
-    "done": true
-  },
   "blue_skies:get_moonstone_shard": {
     "criteria": {
       "obtain_moonstone_shard": "2025-08-03 02:56:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-08-03 04:03:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-08-03 02:13:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-08-03 02:53:04 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_voodoo_poppet": {
-    "criteria": {
-      "has_voodoo_poppet": "2025-08-03 02:54:08 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
-    "criteria": {
-      "has_bow": "2025-08-03 02:34:54 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/food/dough": {
-    "criteria": {
-      "has_water": "2025-08-03 02:45:35 +0000"
     },
     "done": true
   },
@@ -7041,51 +6951,75 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location0": "2025-08-03 03:11:29 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-08-03 03:35:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-08-03 03:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-03 03:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 03:39:39 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-08-03 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_bwg_dye_tag": {
+    "criteria": {
+      "has_dye_tag": "2025-08-03 03:47:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-03 03:52:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-08-03 03:52:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/melon_slice_from_melon": {
     "criteria": {
       "has_melon": "2025-08-03 03:58:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "twilightforest:recipes/decorations/wood/birch_banister": {
     "criteria": {
-      "has_logs": "2025-08-03 02:13:38 +0000"
+      "has_item": "2025-08-03 04:03:33 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/freezing/ice": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_ingredient": "2025-08-03 02:45:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_from_honeycomb": {
-    "criteria": {
-      "has_oxidized_copper": "2025-08-03 02:53:44 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/bone_crusher": {
-    "criteria": {
-      "coded_trigger": "2025-08-03 02:23:03 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2025-08-03 02:14:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2025-08-03 02:11:05 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-08-03 02:13:38 +0000"
+      "has_wood_slab": "2025-08-03 04:03:33 +0000"
     },
     "done": true
   },
@@ -7095,9 +7029,123 @@
     },
     "done": true
   },
-  "tombstone:adventure/enchant_voodoo_poppet": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_enchanted_voodoo_poppet": "2025-08-03 02:54:08 +0000"
+      "log_spam_fixer": "2025-08-03 07:12:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 07:12:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 07:12:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 07:12:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 07:12:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 07:12:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 07:12:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 07:12:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 07:12:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 07:12:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 07:12:45 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-08-03 07:12:45 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 05:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-03 05:49:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 05:26:15 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 05:16:26 +0000"
+    },
+    "done": true
+  },
+  "iammusicplayer:iammusicplayer/listen_to_music": {
+    "criteria": {
+      "listen_to_music": "2025-08-03 04:27:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-08-03 05:26:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-08-03 05:19:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2025-08-03 05:00:46 +0000"
     },
     "done": true
   },
