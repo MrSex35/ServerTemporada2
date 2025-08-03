@@ -1,36 +1,36 @@
-[03Aug2025 00:25:28.331] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.3, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[03Aug2025 00:25:28.337] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
-[03Aug2025 00:25:30.326] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[03Aug2025 00:25:30.382] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerTemporada2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
-[03Aug2025 00:25:30.783] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/ServerTemporada2/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
-[03Aug2025 00:25:30.884] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerTemporada2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.3/fmlcore-1.20.1-47.4.3.jar is missing mods.toml file
-[03Aug2025 00:25:30.885] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerTemporada2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.3/javafmllanguage-1.20.1-47.4.3.jar is missing mods.toml file
-[03Aug2025 00:25:30.887] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerTemporada2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.3/lowcodelanguage-1.20.1-47.4.3.jar is missing mods.toml file
-[03Aug2025 00:25:30.888] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerTemporada2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.3/mclanguage-1.20.1-47.4.3.jar is missing mods.toml file
-[03Aug2025 00:25:31.423] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[03Aug2025 00:25:31.425] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/ServerTemporada2/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
-[03Aug2025 00:25:31.425] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 16 dependencies adding them to mods collection
-[03Aug2025 00:25:35.449] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03Aug2025 00:25:35.552] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
-[03Aug2025 00:25:35.592] [main/ERROR] [mixin/]: Mixin config tf_dnv.mixins.json does not specify "minVersion" property
-[03Aug2025 00:25:35.804] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[03Aug2025 00:25:35.806] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[03Aug2025 00:25:35.809] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[03Aug2025 00:25:36.096] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 0 override(s) found
-[03Aug2025 00:25:36.114] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Aug2025 00:25:36.180] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Aug2025 00:25:36.905] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[03Aug2025 00:25:36.929] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[03Aug2025 00:25:37.168] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/spout/FillingBySpout (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.spout.FillingBySpout)
-[03Aug2025 00:25:37.328] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
-[03Aug2025 00:25:37.328] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/ClientLevel (java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER)
-[03Aug2025 00:25:37.329] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.ClientLevel was not found cubicracers.mixins.json:ClientLevelMixin
-[03Aug2025 00:25:37.656] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
-[03Aug2025 00:25:37.657] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
-[03Aug2025 00:25:38.585] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl)
-[03Aug2025 00:25:38.586] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl was not found doespotatotick.mixins.json:ClaimedChunkManagerAccessor
-[03Aug2025 00:25:38.865] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03Aug2025 00:25:39.215] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+[03Aug2025 01:59:43.947] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.4.3, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[03Aug2025 01:59:43.952] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[03Aug2025 01:59:46.287] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03Aug2025 01:59:46.342] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/ServerTemporada2/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[03Aug2025 01:59:46.718] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModDiscoverer/SCAN]: Locator {mods folder locator at /workspaces/ServerTemporada2/servidor_minecraft/mods} returned 1 files which are client-side-only mods, but we're on a dedicated server. They will be skipped!
+[03Aug2025 01:59:46.841] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerTemporada2/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.4.3/fmlcore-1.20.1-47.4.3.jar is missing mods.toml file
+[03Aug2025 01:59:46.849] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerTemporada2/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.4.3/javafmllanguage-1.20.1-47.4.3.jar is missing mods.toml file
+[03Aug2025 01:59:46.851] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerTemporada2/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.4.3/lowcodelanguage-1.20.1-47.4.3.jar is missing mods.toml file
+[03Aug2025 01:59:46.853] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/ServerTemporada2/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.4.3/mclanguage-1.20.1-47.4.3.jar is missing mods.toml file
+[03Aug2025 01:59:47.782] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[03Aug2025 01:59:47.784] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/ServerTemporada2/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
+[03Aug2025 01:59:47.784] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 16 dependencies adding them to mods collection
+[03Aug2025 01:59:51.715] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Aug2025 01:59:51.792] [main/ERROR] [mixin/]: Mixin config entity_model_features.mixins.json does not specify "minVersion" property
+[03Aug2025 01:59:51.820] [main/ERROR] [mixin/]: Mixin config tf_dnv.mixins.json does not specify "minVersion" property
+[03Aug2025 01:59:52.020] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[03Aug2025 01:59:52.023] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[03Aug2025 01:59:52.026] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[03Aug2025 01:59:52.300] [main/INFO] [Radium Config/]: Loaded configuration file for Radium: 125 options available, 0 override(s) found
+[03Aug2025 01:59:52.317] [main/WARN] [mixin/]: Reference map 'graveyard-FORGE-forge-refmap.json' for graveyard-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Aug2025 01:59:52.386] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Aug2025 01:59:53.002] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Aug2025 01:59:53.024] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Aug2025 01:59:53.303] [main/WARN] [mixin/]: Error loading class: com/simibubi/create/content/fluids/spout/FillingBySpout (java.lang.ClassNotFoundException: com.simibubi.create.content.fluids.spout.FillingBySpout)
+[03Aug2025 01:59:53.544] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER
+[03Aug2025 01:59:53.545] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/ClientLevel (java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientLevel for invalid dist DEDICATED_SERVER)
+[03Aug2025 01:59:53.545] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.ClientLevel was not found cubicracers.mixins.json:ClientLevelMixin
+[03Aug2025 01:59:53.979] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[03Aug2025 01:59:53.979] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[03Aug2025 01:59:54.753] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManagerImpl (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl)
+[03Aug2025 01:59:54.754] [main/WARN] [mixin/]: @Mixin target dev.ftb.mods.ftbchunks.data.ClaimedChunkManagerImpl was not found doespotatotick.mixins.json:ClaimedChunkManagerAccessor
+[03Aug2025 01:59:54.963] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03Aug2025 01:59:55.344] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
 java.lang.NoClassDefFoundError: com/sun/jna/Platform
 	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
 	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23299!/:?]
@@ -60,173 +60,173 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
 	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
 	... 22 more
-[03Aug2025 00:25:42.148] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[03Aug2025 00:25:42.150] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[03Aug2025 00:25:42.166] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[03Aug2025 00:25:42.167] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[03Aug2025 00:25:44.523] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[03Aug2025 00:25:44.524] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
-[03Aug2025 00:25:44.553] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zjn000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[03Aug2025 00:25:46.731] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[03Aug2025 01:59:57.981] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Aug2025 01:59:57.985] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Aug2025 01:59:58.004] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Aug2025 01:59:58.005] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[03Aug2025 02:00:00.579] [main/WARN] [mixin/]: Method overwrite conflict for scheduleRandomTick in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[03Aug2025 02:00:00.580] [main/WARN] [mixin/]: Method overwrite conflict for getScheduledRandomTicks in corgilib-common.mixins.json:chunk.MixinChunkAccess, previously written by dev.corgitaco.ohthetreesyoullgrow.mixin.chunk.MixinChunkAccess. Skipping method.
+[03Aug2025 02:00:00.603] [main/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on refurbished_furniture.common.mixins.json:LevelChunkMixin::handler$zjn000$refurbishedFurniture$AfterRemoveBlockEntity exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[03Aug2025 02:00:02.907] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[03Aug2025 00:25:47.514] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
-[03Aug2025 00:25:48.124] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[03Aug2025 00:25:49.064] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
-[03Aug2025 00:25:49.199] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
-[03Aug2025 00:25:49.602] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[03Aug2025 00:25:49.664] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
-[03Aug2025 00:25:49.664] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
-[03Aug2025 00:25:49.664] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
-[03Aug2025 00:25:49.665] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
-[03Aug2025 00:25:49.665] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
-[03Aug2025 00:25:49.665] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
-[03Aug2025 00:25:49.666] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
-[03Aug2025 00:25:49.666] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
-[03Aug2025 00:25:49.670] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
-[03Aug2025 00:25:49.670] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
-[03Aug2025 00:25:49.671] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
-[03Aug2025 00:25:49.677] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
-[03Aug2025 00:25:49.678] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
-[03Aug2025 00:25:49.838] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[03Aug2025 00:25:50.459] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[03Aug2025 00:25:50.485] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[03Aug2025 00:25:50.522] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
-[03Aug2025 00:25:50.691] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[03Aug2025 00:25:50.692] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[03Aug2025 00:25:50.693] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[03Aug2025 00:25:50.697] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[03Aug2025 00:25:50.698] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[03Aug2025 00:25:50.710] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[03Aug2025 00:25:50.711] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[03Aug2025 00:25:50.737] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.3, for MC 1.20.1 with MCP 20230612.114412
-[03Aug2025 00:25:50.740] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.3 Initialized
-[03Aug2025 00:25:51.583] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
-[03Aug2025 00:25:51.690] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
-[03Aug2025 00:25:51.700] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
-[03Aug2025 00:25:51.767] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
-[03Aug2025 00:25:51.768] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
-[03Aug2025 00:25:51.772] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
-[03Aug2025 00:25:51.773] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
-[03Aug2025 00:25:51.773] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
-[03Aug2025 00:25:51.774] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
-[03Aug2025 00:25:51.779] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
-[03Aug2025 00:25:51.781] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
-[03Aug2025 00:25:51.797] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
-[03Aug2025 00:25:51.798] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
-[03Aug2025 00:25:51.803] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
-[03Aug2025 00:25:51.805] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
-[03Aug2025 00:25:51.821] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
-[03Aug2025 00:25:51.927] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
-[03Aug2025 00:25:51.930] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
-[03Aug2025 00:25:51.945] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
-[03Aug2025 00:25:51.952] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
-[03Aug2025 00:25:51.971] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
-[03Aug2025 00:25:51.993] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
-[03Aug2025 00:25:51.999] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
-[03Aug2025 00:25:52.000] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
-[03Aug2025 00:25:52.018] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
-[03Aug2025 00:25:52.046] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
-[03Aug2025 00:25:52.053] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
-[03Aug2025 00:25:52.054] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
-[03Aug2025 00:25:52.060] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
-[03Aug2025 00:25:52.061] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone villager types
-[03Aug2025 00:25:52.062] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Schedules
-[03Aug2025 00:25:52.069] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Memory Module Types
-[03Aug2025 00:25:52.070] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sensor Types
-[03Aug2025 00:25:52.624] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[03Aug2025 00:25:52.712] [modloading-worker-0/INFO] [zeta/]: Doing super early config setup for zeta
-[03Aug2025 00:25:53.211] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@62a7af91 has been registered twice for the same name treechop:chop_wood.
-[03Aug2025 00:25:58.794] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[03Aug2025 00:25:58.794] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
-[03Aug2025 00:25:59.097] [main/INFO] [Moonlight/]: Initialized block sets in 26ms
-[03Aug2025 00:25:59.238] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
-[03Aug2025 00:25:59.768] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[03Aug2025 00:25:59.776] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[03Aug2025 00:25:59.779] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[03Aug2025 00:25:59.780] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[03Aug2025 00:25:59.975] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[03Aug2025 00:25:59.982] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[03Aug2025 00:26:00.000] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.Shulker_MimicEntity from class net.miauczel.legendary_monsters.entity.custom.OldShulkerMimic
-[03Aug2025 00:26:00.001] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.Cloud_GolemEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.OriginClasses.IAnimatedBoss
-[03Aug2025 00:26:00.001] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.Cloud_GolemEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.OriginClasses.IAnimatedBoss
-[03Aug2025 00:26:00.001] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.Cloud_GolemEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.OriginClasses.IAnimatedBoss
-[03Aug2025 00:26:00.215] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
-[03Aug2025 00:26:00.223] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
-[03Aug2025 00:26:00.432] [modloading-worker-0/INFO] [com.farsight.FarsightMod/]: farsight_view mod initialized
-[03Aug2025 00:26:00.494] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[03Aug2025 00:26:00.498] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[03Aug2025 00:26:00.499] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
-[03Aug2025 00:26:00.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
-[03Aug2025 00:26:00.707] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
-[03Aug2025 00:26:00.761] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
-[03Aug2025 00:26:00.762] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
-[03Aug2025 00:26:00.762] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
-[03Aug2025 00:26:00.762] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
-[03Aug2025 00:26:00.762] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
-[03Aug2025 00:26:00.762] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
-[03Aug2025 00:26:00.762] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
-[03Aug2025 00:26:00.762] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
-[03Aug2025 00:26:00.762] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
-[03Aug2025 00:26:00.839] [main/INFO] [Moonlight/]: Initialized color sets in 53ms
-[03Aug2025 00:26:00.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: UP_TO_DATE Current: 1.3.31 Target: null
-[03Aug2025 00:26:00.878] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
-[03Aug2025 00:26:00.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: OUTDATED Current: 2.3.0 Target: 2.4.0
-[03Aug2025 00:26:00.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
-[03Aug2025 00:26:00.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
-[03Aug2025 00:26:00.920] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[03Aug2025 00:26:00.931] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[03Aug2025 00:26:00.932] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[03Aug2025 00:26:00.932] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
-[03Aug2025 00:26:00.932] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
-[03Aug2025 00:26:00.932] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
-[03Aug2025 00:26:00.943] [main/INFO] [zeta/]: Common setup: Performing initial refresh of zeta's config on thread 'main'
-[03Aug2025 00:26:00.944] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
-[03Aug2025 00:26:00.945] [main/INFO] [zeta/]: Waiting for server start before accepting filewatcher changes to zeta's config
-[03Aug2025 00:26:00.979] [modloading-worker-0/INFO] [weather2.Weather/]: Got IMC []
-[03Aug2025 00:26:01.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
-[03Aug2025 00:26:01.044] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[03Aug2025 00:26:01.044] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[03Aug2025 00:26:01.051] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[03Aug2025 00:26:01.062] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[03Aug2025 00:26:01.063] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
-[03Aug2025 00:26:01.065] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin biomeswevegone:plugin at net.potionstudios.biomeswevegone.compat.wthit.BWGWTHITPlugin
-[03Aug2025 00:26:01.065] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin securitycraft:plugin at net.geforcemods.securitycraft.compat.hudmods.WTHITDataProvider
-[03Aug2025 00:26:01.066] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[03Aug2025 00:26:01.089] [main/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[03Aug2025 00:26:01.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[03Aug2025 00:26:01.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
-[03Aug2025 00:26:01.816] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
-[03Aug2025 00:26:01.816] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[03Aug2025 00:26:01.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.6 Target: 9.0.6
-[03Aug2025 00:26:01.834] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [undermod] Starting version check at https://raw.githubusercontent.com/mystronics/undermod/main/versions-forge.json
-[03Aug2025 00:26:01.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [undermod] Found status: BETA Current: 0.2.1 Target: null
-[03Aug2025 00:26:01.847] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[03Aug2025 00:26:01.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[03Aug2025 00:26:01.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
-[03Aug2025 00:26:01.966] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
-[03Aug2025 00:26:01.967] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[03Aug2025 00:26:02.312] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[03Aug2025 00:26:02.312] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03Aug2025 00:26:02.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.4.3 Target: 47.4.5
-[03Aug2025 00:26:02.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
-[03Aug2025 00:26:02.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.13 Target: null
-[03Aug2025 00:26:02.416] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[03Aug2025 00:26:02.521] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[03Aug2025 00:26:10.019] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03Aug2025 00:26:16.237] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerTemporada2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23299!/assets/.mcassetsroot' uses unexpected schema
-[03Aug2025 00:26:16.237] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerTemporada2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23299!/data/.mcassetsroot' uses unexpected schema
-[03Aug2025 00:26:21.843] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
-[03Aug2025 00:26:23.563] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[03Aug2025 00:26:23.693] [Worker-Main-1/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.6.jar
-[03Aug2025 00:26:23.726] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.7 MC 1.20.1.jar)
-[03Aug2025 00:26:23.767] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
+[03Aug2025 02:00:03.543] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Attempting to load the Modding Legacy supporters list from https://moddinglegacy.com/supporters-changelogs/supporters.txt
+[03Aug2025 02:00:04.036] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[03Aug2025 02:00:05.109] [Modding Legacy/blue_skies/Supporters thread/INFO] [ModdingLegacy/blue_skies/Supporter/]: Successfully loaded the Modding Legacy supporters list.
+[03Aug2025 02:00:05.284] [modloading-worker-0/INFO] [noisium/]: Loading Noisium.
+[03Aug2025 02:00:05.675] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[03Aug2025 02:00:05.728] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_sync
+[03Aug2025 02:00:05.729] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_add
+[03Aug2025 02:00:05.729] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_edit
+[03Aug2025 02:00:05.729] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_playlist_change_authority
+[03Aug2025 02:00:05.729] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_add
+[03Aug2025 02:00:05.730] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_edit
+[03Aug2025 02:00:05.730] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_ready_result
+[03Aug2025 02:00:05.730] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_ring_update_result
+[03Aug2025 02:00:05.730] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:music_or_playlist_delete
+[03Aug2025 02:00:05.731] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:multiple_music_add
+[03Aug2025 02:00:05.731] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id iammusicplayer:hand_lid_cycle
+[03Aug2025 02:00:05.733] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:block_entity_instruction
+[03Aug2025 02:00:05.735] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id otyacraftengine:item_instruction
+[03Aug2025 02:00:05.884] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[03Aug2025 02:00:06.384] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[03Aug2025 02:00:06.399] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[03Aug2025 02:00:06.516] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[03Aug2025 02:00:06.517] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[03Aug2025 02:00:06.519] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[03Aug2025 02:00:06.520] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[03Aug2025 02:00:06.523] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[03Aug2025 02:00:06.526] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[03Aug2025 02:00:06.530] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[03Aug2025 02:00:06.561] [modloading-worker-0/INFO] [graveyard/]: Registered JSON trade offer adapter.
+[03Aug2025 02:00:06.713] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.4.3, for MC 1.20.1 with MCP 20230612.114412
+[03Aug2025 02:00:06.713] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.4.3 Initialized
+[03Aug2025 02:00:07.619] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[03Aug2025 02:00:07.630] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone items
+[03Aug2025 02:00:07.783] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Blocks
+[03Aug2025 02:00:07.841] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Wood
+[03Aug2025 02:00:07.842] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Entities
+[03Aug2025 02:00:07.843] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Entities
+[03Aug2025 02:00:07.844] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Creative Tabs
+[03Aug2025 02:00:07.845] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sounds
+[03Aug2025 02:00:07.845] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Block Predicate
+[03Aug2025 02:00:07.869] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone State Providers
+[03Aug2025 02:00:07.876] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Decorators
+[03Aug2025 02:00:07.889] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Features
+[03Aug2025 02:00:07.893] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Structure Pieces
+[03Aug2025 02:00:07.895] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Types
+[03Aug2025 02:00:07.899] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Configured Features
+[03Aug2025 02:00:07.923] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Configured Features
+[03Aug2025 02:00:08.051] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Tree Configured Features
+[03Aug2025 02:00:08.061] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Configured Features
+[03Aug2025 02:00:08.071] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes You'll Go Overworld Configured Features
+[03Aug2025 02:00:08.087] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Placed Features
+[03Aug2025 02:00:08.101] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Tree Placed Features
+[03Aug2025 02:00:08.118] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Overworld Vegetation Placed Features
+[03Aug2025 02:00:08.122] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Creating and Registering Vanilla Placed Features
+[03Aug2025 02:00:08.123] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Surface Rules
+[03Aug2025 02:00:08.137] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Template Pools
+[03Aug2025 02:00:08.161] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biome's We've Gone Village Template Pools
+[03Aug2025 02:00:08.162] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Poi Types
+[03Aug2025 02:00:08.166] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Villager Professions
+[03Aug2025 02:00:08.167] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Custom Structure Processors
+[03Aug2025 02:00:08.168] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone villager types
+[03Aug2025 02:00:08.171] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Schedules
+[03Aug2025 02:00:08.174] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Memory Module Types
+[03Aug2025 02:00:08.176] [modloading-worker-0/INFO] [net.potionstudios.biomeswevegone.BiomesWeveGone/]: Registering Oh The Biomes We've Gone Sensor Types
+[03Aug2025 02:00:08.547] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[03Aug2025 02:00:08.558] [modloading-worker-0/INFO] [zeta/]: Doing super early config setup for zeta
+[03Aug2025 02:00:09.365] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@2ee3bf7f has been registered twice for the same name treechop:chop_wood.
+[03Aug2025 02:00:15.265] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[03Aug2025 02:00:15.266] [main/WARN] [dev.architectury.registry.registries.forge.RegistrarManagerImpl/]: Registry entry listened Registry Entry [minecraft:entity_type / artifacts:mimic] was not realized!
+[03Aug2025 02:00:15.591] [main/INFO] [Moonlight/]: Initialized block sets in 34ms
+[03Aug2025 02:00:15.737] [main/INFO] [com.cupboard.Cupboard/]: Loaded config for: connectivity.json
+[03Aug2025 02:00:16.366] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[03Aug2025 02:00:16.377] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[03Aug2025 02:00:16.380] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[03Aug2025 02:00:16.382] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[03Aug2025 02:00:16.718] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[03Aug2025 02:00:16.729] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[03Aug2025 02:00:16.761] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.Cloud_GolemEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.OriginClasses.IAnimatedBoss
+[03Aug2025 02:00:16.762] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.Cloud_GolemEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.OriginClasses.IAnimatedBoss
+[03Aug2025 02:00:16.762] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.Cloud_GolemEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.OriginClasses.IAnimatedBoss
+[03Aug2025 02:00:16.764] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.Shulker_MimicEntity from class net.miauczel.legendary_monsters.entity.custom.OldShulkerMimic
+[03Aug2025 02:00:17.036] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[03Aug2025 02:00:17.047] [modloading-worker-0/INFO] [com.connectivity.Connectivity/]: Connectivity initialized
+[03Aug2025 02:00:17.340] [modloading-worker-0/INFO] [com.farsight.FarsightMod/]: farsight_view mod initialized
+[03Aug2025 02:00:17.416] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[03Aug2025 02:00:17.417] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[03Aug2025 02:00:17.420] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Starting version check at http://changelogs.moddinglegacy.com/blue-skies.json
+[03Aug2025 02:00:17.433] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[03Aug2025 02:00:17.666] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key refurbished_furniture:lock_yaw for refurbished_furniture:seat
+[03Aug2025 02:00:17.767] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:shoot_cool_down for minecraft:living_entity
+[03Aug2025 02:00:17.768] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:melee_cool_down for minecraft:living_entity
+[03Aug2025 02:00:17.768] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:reload_state for minecraft:living_entity
+[03Aug2025 02:00:17.768] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:aiming_progress for minecraft:living_entity
+[03Aug2025 02:00:17.768] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:draw_cool_down for minecraft:living_entity
+[03Aug2025 02:00:17.768] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_aiming for minecraft:living_entity
+[03Aug2025 02:00:17.768] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:sprint_time for minecraft:living_entity
+[03Aug2025 02:00:17.769] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:is_bolting for minecraft:living_entity
+[03Aug2025 02:00:17.769] [main/INFO] [tacz/SYNCED_ENTITY_DATA_TAC_COPY]: Registered synced data key tacz:throwable_using for minecraft:living_entity
+[03Aug2025 02:00:17.787] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [blue_skies] Found status: UP_TO_DATE Current: 1.3.31 Target: null
+[03Aug2025 02:00:17.795] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/window.json
+[03Aug2025 02:00:17.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwwindows] Found status: OUTDATED Current: 2.3.0 Target: 2.4.0
+[03Aug2025 02:00:17.844] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/doors.json
+[03Aug2025 02:00:17.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwdoors] Found status: UP_TO_DATE Current: 1.1.2 Target: null
+[03Aug2025 02:00:17.858] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[03Aug2025 02:00:17.891] [main/INFO] [Moonlight/]: Initialized color sets in 86ms
+[03Aug2025 02:00:17.964] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: AHEAD Current: 4.3.2508 Target: null
+[03Aug2025 02:00:17.965] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[03Aug2025 02:00:17.992] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03Aug2025 02:00:17.992] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[03Aug2025 02:00:17.992] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_0 to index 1 for type OVERWORLD
+[03Aug2025 02:00:17.992] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_1 to index 2 for type OVERWORLD
+[03Aug2025 02:00:17.992] [main/INFO] [terrablender/]: Registered region biomeswevegone:region_2 to index 3 for type OVERWORLD
+[03Aug2025 02:00:18.006] [main/INFO] [zeta/]: Common setup: Performing initial refresh of zeta's config on thread 'main'
+[03Aug2025 02:00:18.008] [main/INFO] [zeta/]: 'zeta' is enabling Zeta's piston structure resolver.
+[03Aug2025 02:00:18.012] [main/INFO] [zeta/]: Waiting for server start before accepting filewatcher changes to zeta's config
+[03Aug2025 02:00:18.045] [modloading-worker-0/INFO] [weather2.Weather/]: Got IMC []
+[03Aug2025 02:00:18.059] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[03Aug2025 02:00:18.059] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Starting version check at https://update.maxhenkel.de/forge/camera
+[03Aug2025 02:00:18.125] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[03Aug2025 02:00:18.143] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[03Aug2025 02:00:18.160] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[03Aug2025 02:00:18.161] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[03Aug2025 02:00:18.162] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin biomeswevegone:plugin at net.potionstudios.biomeswevegone.compat.wthit.BWGWTHITPlugin
+[03Aug2025 02:00:18.163] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin securitycraft:plugin at net.geforcemods.securitycraft.compat.hudmods.WTHITDataProvider
+[03Aug2025 02:00:18.165] [main/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[03Aug2025 02:00:18.209] [main/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[03Aug2025 02:00:18.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [camera] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[03Aug2025 02:00:18.577] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[03Aug2025 02:00:18.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.6 Target: 9.0.6
+[03Aug2025 02:00:18.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [undermod] Starting version check at https://raw.githubusercontent.com/mystronics/undermod/main/versions-forge.json
+[03Aug2025 02:00:18.604] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [undermod] Found status: BETA Current: 0.2.1 Target: null
+[03Aug2025 02:00:18.605] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[03Aug2025 02:00:18.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[03Aug2025 02:00:18.620] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Starting version check at https://api.modrinth.com/updates/radium/forge_updates.json
+[03Aug2025 02:00:18.825] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [radium] Found status: AHEAD Current: 0.12.4+git.26c9d8e Target: null
+[03Aug2025 02:00:18.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[03Aug2025 02:00:19.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[03Aug2025 02:00:19.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Aug2025 02:00:19.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.4.3 Target: 47.4.5
+[03Aug2025 02:00:19.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[03Aug2025 02:00:19.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: BETA Current: 1.20-2.14.13 Target: null
+[03Aug2025 02:00:19.324] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[03Aug2025 02:00:19.440] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[03Aug2025 02:00:26.115] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Aug2025 02:00:32.224] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerTemporada2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23299!/assets/.mcassetsroot' uses unexpected schema
+[03Aug2025 02:00:32.225] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/ServerTemporada2/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23299!/data/.mcassetsroot' uses unexpected schema
+[03Aug2025 02:00:39.345] [main/INFO] [bettervillage/]: StructureSet modified for minecraft:village : Now using custom village configuration (can be disabled in the better villages config: boolean.villages.enabled_custom_config).
+[03Aug2025 02:00:41.341] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[03Aug2025 02:00:41.485] [Worker-Main-2/WARN] [artifacts.Artifacts/]: Tag entries for curios:tags/items/magic_book.json cleared by tombstone-1.20.1-8.9.6.jar
+[03Aug2025 02:00:41.522] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag legendary_monsters:ancient_stronghold_biomes as it is missing following references: minecraft:spruce_forest (from legendarymonsters-1.9.7 MC 1.20.1.jar)
+[03Aug2025 02:00:41.546] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.2-1.20.x.jar)
-[03Aug2025 00:26:23.784] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.2-1.20.x.jar)
-[03Aug2025 00:26:23.785] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
+[03Aug2025 02:00:41.995] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:wraith_spawnable as it is missing following references: quark:soul_stone (from bygonenether-1.3.2-1.20.x.jar)
+[03Aug2025 02:00:41.995] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag quark:vertical_slab as it is missing following references: bygonenether:withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:cracked_withered_blackstone_vertical_slab (from bygonenether-1.3.2-1.20.x.jar), 
 	bygonenether:warped_nether_brick_vertical_slab (from bygonenether-1.3.2-1.20.x.jar)
-[03Aug2025 00:26:24.790] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/withered_blackstone_vertical_slab
+[03Aug2025 02:00:43.122] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/withered_blackstone_vertical_slab
 java.lang.IllegalArgumentException: Can't find block bygonenether:withered_blackstone_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23299!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -298,7 +298,7 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:withered_black
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[03Aug2025 00:26:24.884] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/cracked_withered_blackstone_vertical_slab
+[03Aug2025 02:00:43.217] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/cracked_withered_blackstone_vertical_slab
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'bygonenether:cracked_withered_blackstone_vertical_slab'
 	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23299!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -350,7 +350,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[03Aug2025 00:26:25.344] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/warped_nether_brick_vertical_slab
+[03Aug2025 02:00:43.569] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:bygonenether:blocks/warped_nether_brick_vertical_slab
 java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_brick_vertical_slab
 	at net.minecraft.world.level.storage.loot.predicates.LootItemBlockStatePropertyCondition$Serializer.m_81802_(LootItemBlockStatePropertyCondition.java:79) ~[server-1.20.1-20230612.114412-srg.jar%23299!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -422,17 +422,17 @@ java.lang.IllegalArgumentException: Can't find block bygonenether:warped_nether_
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[03Aug2025 00:26:25.461] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:fantasyfauna:entities/wisp}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[03Aug2025 00:26:25.461] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[03Aug2025 00:26:25.461] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:fantasyfauna:entities/wisp}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[03Aug2025 00:26:25.461] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[03Aug2025 00:26:25.462] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[03Aug2025 00:26:25.462] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:tf_dnv:chests/dungeon_barrel}.pools[0].entries[1]: Unknown loot table called twilightforest:chests/casket_loot
-[03Aug2025 00:26:25.462] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:tf_dnv:chests/dungeon_shroom_barrel}.pools[0].entries[0]: Unknown loot table called tf_dnv:dungeon_shroom
-[03Aug2025 00:26:25.462] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[03Aug2025 00:26:25.559] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
-[03Aug2025 00:26:25.572] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
-[03Aug2025 00:26:25.601] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
+[03Aug2025 02:00:43.713] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:fantasyfauna:entities/wisp}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Aug2025 02:00:43.714] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Aug2025 02:00:43.714] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:fantasyfauna:entities/wisp}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Aug2025 02:00:43.714] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Aug2025 02:00:43.714] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
+[03Aug2025 02:00:43.714] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:tf_dnv:chests/dungeon_barrel}.pools[0].entries[1]: Unknown loot table called twilightforest:chests/casket_loot
+[03Aug2025 02:00:43.714] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:tf_dnv:chests/dungeon_shroom_barrel}.pools[0].entries[0]: Unknown loot table called tf_dnv:dungeon_shroom
+[03Aug2025 02:00:43.714] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[1]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[03Aug2025 02:00:43.819] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[03Aug2025 02:00:43.828] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[03Aug2025 02:00:43.870] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:ancient_dripstone_brick_stairs_left
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dripstone_brick'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23299!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -470,7 +470,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:ancient_dr
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[03Aug2025 00:26:25.625] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
+[03Aug2025 02:00:43.885] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:dinosaur_bone_meal
 com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_bone_meal'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.3-universal.jar%23304!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.3-universal.jar%23304!/:?]
@@ -503,9 +503,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'legendary_monsters:dinosaur_b
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[03Aug2025 00:26:25.649] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
-[03Aug2025 00:26:25.673] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
-[03Aug2025 00:26:25.687] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cubicracers:trash_kart
+[03Aug2025 02:00:43.898] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[03Aug2025 02:00:43.917] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[03Aug2025 02:00:43.927] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe cubicracers:trash_kart
 com.google.gson.JsonSyntaxException: Unknown item 'cubicracers:trash_kart'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.4.3-universal.jar%23304!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.4.3-universal.jar%23304!/:?]
@@ -538,8 +538,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'cubicracers:trash_kart'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[03Aug2025 00:26:25.763] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
-[03Aug2025 00:26:25.791] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
+[03Aug2025 02:00:43.974] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[03Aug2025 02:00:43.985] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe legendary_monsters:purified_soul
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecraft:brewing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23299!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -568,76 +568,75 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[03Aug2025 00:26:25.831] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
-[03Aug2025 00:26:25.832] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
-[03Aug2025 00:26:25.837] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
-[03Aug2025 00:26:25.847] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
-[03Aug2025 00:26:25.915] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
-[03Aug2025 00:26:26.000] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
-[03Aug2025 00:26:26.029] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
-[03Aug2025 00:26:26.037] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
-[03Aug2025 00:26:26.046] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement legendary_monsters:defeat_ambusher: Expected item to be an item, was unknown string 'legendary_monsters:ancient_dripstone_shard'
-[03Aug2025 00:26:26.116] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5825 advancements
-[03Aug2025 00:26:26.127] [main/INFO] [placebo/]: Registered 0 additional recipes.
-[03Aug2025 00:26:26.128] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
-[03Aug2025 00:26:26.128] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
-[03Aug2025 00:26:26.128] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
-[03Aug2025 00:26:26.128] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
-[03Aug2025 00:26:26.142] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
-[03Aug2025 00:26:26.144] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
-[03Aug2025 00:26:26.144] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
-[03Aug2025 00:26:26.144] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
-[03Aug2025 00:26:26.156] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
-[03Aug2025 00:26:26.160] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Loading exposure lenses:
-[03Aug2025 00:26:26.161] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
-[03Aug2025 00:26:26.169] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
-[03Aug2025 00:26:26.176] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
-[03Aug2025 00:26:26.279] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_from_block - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
-[03Aug2025 00:26:26.279] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_in_catacombs - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
-[03Aug2025 00:26:26.282] [main/INFO] [placebo/]: Registered 0 gear_sets.
-[03Aug2025 00:26:26.327] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[03Aug2025 00:26:32.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[03Aug2025 00:26:32.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03Aug2025 00:26:32.431] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03Aug2025 00:26:32.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03Aug2025 00:26:32.558] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03Aug2025 00:26:32.584] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03Aug2025 00:26:32.670] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03Aug2025 00:26:32.670] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03Aug2025 00:26:32.671] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03Aug2025 00:26:32.671] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03Aug2025 00:26:33.016] [Server thread/INFO] [Framework/]: Loading server configs...
-[03Aug2025 00:26:33.059] [Server thread/INFO] [zeta/]: Server starting, accepting filewatcher changes for zeta's config
-[03Aug2025 00:26:33.077] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[03Aug2025 00:26:33.634] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[03Aug2025 00:26:33.637] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03Aug2025 00:26:35.393] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[03Aug2025 00:26:41.508] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[03Aug2025 00:26:42.338] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class me.jesuismister.cubicracers.entity.custom.Kart from class me.jesuismister.cubicracers.entity.custom.BobOmb
-[03Aug2025 00:26:42.399] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.IceSpikeEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.Projectile.PowerBallBombEntity
-[03Aug2025 00:26:42.400] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.IceSpikeEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.Projectile.PowerBallBombEntity
-[03Aug2025 00:26:42.416] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.IceSpikeEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.Projectile.SmallPowerBallBombEntity
-[03Aug2025 00:26:43.227] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[03Aug2025 00:26:45.896] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[03Aug2025 00:26:46.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03Aug2025 00:26:46.466] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Aug2025 00:26:46.949] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
-[03Aug2025 00:26:47.450] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 58%
-[03Aug2025 00:26:49.065] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[03Aug2025 00:26:49.071] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[03Aug2025 00:26:49.075] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[03Aug2025 00:26:49.453] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[03Aug2025 00:26:49.922] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3475 ms
-[03Aug2025 00:26:49.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (17.237s)! For help, type "help"
-[03Aug2025 00:26:50.007] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03Aug2025 00:26:50.017] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[03Aug2025 00:26:50.020] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: farsight.json
-[03Aug2025 00:26:50.039] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
-[03Aug2025 00:26:50.039] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
-[03Aug2025 00:26:50.039] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
-[03Aug2025 00:26:50.040] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
-[03Aug2025 00:26:50.040] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/ServerTemporada2/servidor_minecraft/./config/infernalmobs.cfg
-[03Aug2025 00:26:50.113] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Couldn't load server icon
+[03Aug2025 02:00:44.002] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[03Aug2025 02:00:44.003] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[03Aug2025 02:00:44.006] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[03Aug2025 02:00:44.012] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[03Aug2025 02:00:44.075] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_basic_shield: Unknown item id 'enderio:octadic_capacitor'
+[03Aug2025 02:00:44.194] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[03Aug2025 02:00:44.253] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/dark_steel_riot_tower_shield: Unknown item id 'enderio:octadic_capacitor'
+[03Aug2025 02:00:44.264] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[03Aug2025 02:00:44.272] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement legendary_monsters:defeat_ambusher: Expected item to be an item, was unknown string 'legendary_monsters:ancient_dripstone_shard'
+[03Aug2025 02:00:44.338] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 5825 advancements
+[03Aug2025 02:00:44.361] [main/INFO] [placebo/]: Registered 0 additional recipes.
+[03Aug2025 02:00:44.361] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 8 tool_handle_types
+[03Aug2025 02:00:44.362] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 37 snowcap_oven_freezing_recipes
+[03Aug2025 02:00:44.364] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 horizonite_forge_fuels
+[03Aug2025 02:00:44.365] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 12 snowcap_mushroom_freezing
+[03Aug2025 02:00:44.381] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 70 alchemy_recipes
+[03Aug2025 02:00:44.385] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 81 journal/entries
+[03Aug2025 02:00:44.385] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 3 journal/sections
+[03Aug2025 02:00:44.385] [main/INFO] [ModdingLegacy/blue_skies/SkiesDataManager/]: Loaded 7 journal/requirements
+[03Aug2025 02:00:44.412] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[03Aug2025 02:00:44.413] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Loading exposure lenses:
+[03Aug2025 02:00:44.414] [main/INFO] [io.github.mortuusars.exposure.Exposure/]: Lens [exposure:spyglass, FocalRange[min=55, max=200]] added.
+[03Aug2025 02:00:44.427] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 13 curio slots
+[03Aug2025 02:00:44.436] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[03Aug2025 02:00:44.448] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_from_block - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
+[03Aug2025 02:00:44.449] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id bygonenether:soul_stone_in_catacombs - error: Unknown registry key in ResourceKey[minecraft:root / forge:global_loot_modifier_serializers]: bygonenether:replace_item
+[03Aug2025 02:00:44.570] [main/INFO] [placebo/]: Registered 0 gear_sets.
+[03Aug2025 02:00:44.614] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[03Aug2025 02:00:50.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[03Aug2025 02:00:50.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Aug2025 02:00:50.951] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Aug2025 02:00:50.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Aug2025 02:00:51.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Aug2025 02:00:51.181] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Aug2025 02:00:51.281] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Aug2025 02:00:51.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Aug2025 02:00:51.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Aug2025 02:00:51.282] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Aug2025 02:00:51.684] [Server thread/INFO] [Framework/]: Loading server configs...
+[03Aug2025 02:00:51.723] [Server thread/INFO] [zeta/]: Server starting, accepting filewatcher changes for zeta's config
+[03Aug2025 02:00:51.755] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03Aug2025 02:00:52.105] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03Aug2025 02:00:52.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Aug2025 02:00:53.477] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03Aug2025 02:01:00.349] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class me.jesuismister.cubicracers.entity.custom.Kart from class me.jesuismister.cubicracers.entity.custom.BobOmb
+[03Aug2025 02:01:00.397] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.IceSpikeEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.Projectile.PowerBallBombEntity
+[03Aug2025 02:01:00.397] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.IceSpikeEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.Projectile.PowerBallBombEntity
+[03Aug2025 02:01:00.408] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.miauczel.legendary_monsters.entity.custom.IceSpikeEntity from class net.miauczel.legendary_monsters.entity.AnimatedMonster.Projectile.SmallPowerBallBombEntity
+[03Aug2025 02:01:00.414] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03Aug2025 02:01:01.937] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[03Aug2025 02:01:03.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Aug2025 02:01:03.761] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Aug2025 02:01:04.234] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[03Aug2025 02:01:04.736] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
+[03Aug2025 02:01:05.233] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
+[03Aug2025 02:01:05.875] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[03Aug2025 02:01:06.233] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[03Aug2025 02:01:06.734] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
+[03Aug2025 02:01:07.246] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3514 ms
+[03Aug2025 02:01:07.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.950s)! For help, type "help"
+[03Aug2025 02:01:07.333] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Aug2025 02:01:07.344] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[03Aug2025 02:01:07.347] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: farsight.json
+[03Aug2025 02:01:07.362] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 14
+[03Aug2025 02:01:07.365] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 17
+[03Aug2025 02:01:07.366] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
+[03Aug2025 02:01:07.366] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
+[03Aug2025 02:01:07.367] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/ServerTemporada2/servidor_minecraft/./config/infernalmobs.cfg
+[03Aug2025 02:01:07.442] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Couldn't load server icon
 java.lang.IllegalStateException: Must be 64 pixels wide
 	at com.google.common.base.Preconditions.checkState(Preconditions.java:502) ~[guava-31.1-jre.jar%2372!/:?]
 	at net.minecraft.server.MinecraftServer.m_271593_(MinecraftServer.java:784) ~[server-1.20.1-20230612.114412-srg.jar%23299!/:?]
@@ -646,233 +645,174 @@ java.lang.IllegalStateException: Must be 64 pixels wide
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:640) ~[server-1.20.1-20230612.114412-srg.jar%23299!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23299!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[03Aug2025 00:26:51.592] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Not Installed for use
-[03Aug2025 00:27:09.106] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[03Aug2025 00:27:09.275] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:62431] logged in with entity id 1624 at (-1876.7875050795103, 285.2760009765625, -8630.827521429357)
-[03Aug2025 00:27:09.294] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
-[03Aug2025 00:27:09.295] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
-[03Aug2025 00:27:09.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
-[03Aug2025 00:27:09.296] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
-[03Aug2025 00:27:09.302] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
-[03Aug2025 00:27:09.309] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
-[03Aug2025 00:27:09.309] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
-[03Aug2025 00:27:09.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
-[03Aug2025 00:27:17.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7940ms or 158 ticks behind
-[03Aug2025 00:27:39.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
-[03Aug2025 00:28:42.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2146ms or 42 ticks behind
-[03Aug2025 00:29:26.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe moved wrongly!
-[03Aug2025 00:38:20.578] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[03Aug2025 00:38:20.615] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[03Aug2025 00:38:49.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[03Aug2025 00:54:36.251] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
-[03Aug2025 00:54:36.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
-[03Aug2025 01:18:21.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:63458] logged in with entity id 4443 at (-1912.9733675648174, 229.0, -8645.177250362503)
-[03Aug2025 01:18:21.735] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
-[03Aug2025 01:18:21.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
-[03Aug2025 01:18:21.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
-[03Aug2025 01:18:21.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
-[03Aug2025 01:18:21.739] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
-[03Aug2025 01:18:21.743] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
-[03Aug2025 01:18:21.746] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
-[03Aug2025 01:18:21.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
-[03Aug2025 01:22:10.398] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
-[03Aug2025 01:22:10.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
-[03Aug2025 01:37:07.826] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:54722] logged in with entity id 5049 at (-2130.6041108662434, 185.08248901367188, 5148.814775917163)
-[03Aug2025 01:37:07.827] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Misterchuwa
-[03Aug2025 01:37:07.827] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Misterchuwa
-[03Aug2025 01:37:07.828] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Misterchuwa
-[03Aug2025 01:37:07.828] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Misterchuwa
-[03Aug2025 01:37:07.830] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Misterchuwa
-[03Aug2025 01:37:07.832] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Misterchuwa
-[03Aug2025 01:37:07.832] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
-[03Aug2025 01:37:07.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[03Aug2025 01:37:26.723] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3832ms or 76 ticks behind
-[03Aug2025 01:37:35.363] [Worker-Main-83/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1950, y=-24, z=5027}
-[03Aug2025 01:37:40.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.2520987135130781,-10.318927039291907,0.47961500873316254
-[03Aug2025 01:37:40.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.2579909775326996,-10.667728676877658,0.4949809293830185
-[03Aug2025 01:37:40.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.26370638142680036,-11.016941324002715,0.5101301500144473
-[03Aug2025 01:37:40.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.26924325006029903,-11.366518331079988,0.5250494122647069
-[03Aug2025 01:37:40.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.2746001979671746,-11.716418343251036,0.539726290578983
-[03Aug2025 01:37:40.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.279776105552628,-12.066604699434293,0.5541491495341688
-[03Aug2025 01:37:40.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.28477009747030024,-12.417044899581327,0.5683071038656635
-[03Aug2025 01:37:40.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.2895815231318011,-12.767710132399571,0.582189981085321
-[03Aug2025 01:37:40.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.294209939479515,-13.118574856678435,0.595788286061179
-[03Aug2025 01:37:40.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.29865509553519587,-13.469616430135034,0.6090931692933736
-[03Aug2025 01:37:40.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.30291691806814924,-13.820814780385831,0.6220963962668975
-[03Aug2025 01:37:40.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.30699561982146406,-14.172152113262996,0.6347903410196523
-[03Aug2025 01:37:40.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3108914208742135,-14.523612654236985,0.647167917569277
-[03Aug2025 01:37:40.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3146048037165201,-14.875182419187496,0.659222596791551
-[03Aug2025 01:37:40.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.31813636078413765,-15.22684901119203,0.6709483631830153
-[03Aug2025 01:37:40.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3214867902538572,-15.578601440378918,0.6823396937988946
-[03Aug2025 01:37:40.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3246568918925732,-15.930429964227073,0.69339153794499
-[03Aug2025 01:37:40.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3276475626589672,-16.28232594599163,0.7040992996253408
-[03Aug2025 01:37:40.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.33045989011316124,-16.634281729198335,0.7144588394376115
-[03Aug2025 01:37:40.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3330949315218277,-16.986290526382902,0.7244664218669641
-[03Aug2025 01:37:40.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3355539235699325,-17.33834632045827,0.7341187373122011
-[03Aug2025 01:37:40.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3378381631209777,-17.69044377727684,0.7434128711211088
-[03Aug2025 01:37:40.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.33994900712195886,-18.04257816811679,0.7523462917251891
-[03Aug2025 01:37:40.227] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.34188795188038057,-18.39474530096632,0.760916855879259
-[03Aug2025 01:37:40.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.34365645300249525,-18.746941459607,0.7691227671739398
-[03Aug2025 01:37:40.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.34525609883348807,-19.099163349611217,0.7769625991249995
-[03Aug2025 01:37:40.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.346688513754998,-19.451408050468956,0.7844352723323027
-[03Aug2025 01:37:40.228] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.34795535897683294,-19.803672973148082,0.7915400495739959
-[03Aug2025 01:37:40.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3490583322454768,-20.155955822471668,0.7982765320648468
-[03Aug2025 01:37:40.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.349999166730413,-20.508254563765348,0.8046446580729025
-[03Aug2025 01:37:40.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3507796848525686,-20.86056739329038,0.8106447144718913
-[03Aug2025 01:37:40.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3514016699405147,-21.212892712032357,0.8162773171588924
-[03Aug2025 01:37:40.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.35186698380539383,-21.565229102464997,0.8215434397634453
-[03Aug2025 01:37:40.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3521774967557576,-21.917575307951296,0.8264444137594182
-[03Aug2025 01:37:40.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3523350845375717,-22.26993021448257,0.8309819462538144
-[03Aug2025 01:37:40.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.35234162355618537,-22.62229283449014,0.8351581460692614
-[03Aug2025 01:37:40.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.35219898439572717,-22.974662292494344,0.8389755613761736
-[03Aug2025 01:37:40.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.35190905648642,-23.327037812382486,0.8424372397830666
-[03Aug2025 01:37:40.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.35147366350702214,-23.67941870613069,0.8455467934763874
-[03Aug2025 01:37:40.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.35089462371206537,-24.031804363805776,0.8483085239140564
-[03Aug2025 01:37:40.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3501736790635732,-24.384194244701973,0.8507275770134584
-[03Aug2025 01:37:40.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3493125507407058,-24.736587869483657,0.8528101948268159
-[03Aug2025 01:37:40.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3483129223141077,-25.08898481321978,0.8545640658066986
-[03Aug2025 01:37:40.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3471764678679392,-25.44138469920898,0.8559988303140926
-[03Aug2025 01:37:40.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.34590497753652016,-25.793787193505523,0.8571267581819484
-[03Aug2025 01:37:40.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3445004334876103,-26.146192000066463,0.857963485403161
-[03Aug2025 01:37:40.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.34296502152710673,-26.498598856449803,0.8585284903356296
-[03Aug2025 01:37:40.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3413010325416508,-26.851007530000658,0.8588447979482225
-[03Aug2025 01:37:40.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3395106016259888,-27.203417814470498,0.8589376610025283
-[03Aug2025 01:37:40.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3375956037502874,-27.555829527019995,0.8588326784447418
-[03Aug2025 01:37:40.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3355576448134343,-27.9082425055621,0.8585540885387672
-[03Aug2025 01:37:40.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.33339821261415636,-28.260656606406627,0.8581236964564596
-[03Aug2025 01:37:40.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3311159610539107,-28.61307170217225,0.8575601866523357
-[03Aug2025 01:37:40.237] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.32871024094583845,-28.965457680172648,0.8568794172515481
-[03Aug2025 01:37:40.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.32618143404124567,-29.31775934331563,0.8560947960231715
-[03Aug2025 01:37:40.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.32353078801952506,-29.669900687694934,0.855217701076981
-[03Aug2025 01:37:40.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3207601905883166,-30.021788612719007,0.8542579769291478
-[03Aug2025 01:37:40.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.31787205048067335,-30.373316150535345,0.8532245014275759
-[03Aug2025 01:37:40.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3148690866819379,-30.724365258134668,0.8521257617594529
-[03Aug2025 01:37:40.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.31175428204414857,-31.074809244122548,0.8509704570769827
-[03Aug2025 01:37:40.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.30853073799698905,-31.424514841821207,0.8497680210011822
-[03Aug2025 01:37:40.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.30520162779930615,-31.773344006096153,0.8485291239157959
-[03Aug2025 01:37:40.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.3017701429139379,-32.12115545408889,0.8472660779516445
-[03Aug2025 01:37:40.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.29823942778148194,-32.467805975196995,0.8459932372334151
-[03Aug2025 01:37:40.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.29461260533071254,-32.81315155139342,0.8447272018765943
-[03Aug2025 01:37:40.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.29089274603438753,-33.15704830196057,0.8434871961835597
-[03Aug2025 01:37:40.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.28708287204881344,-33.4993532725685,0.8422949942141713
-[03Aug2025 01:37:40.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.28318595754035414,-33.839925104990186,0.8411753047539605
-[03Aug2025 01:37:40.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.27920499666743126,-34.178624586100796,0.8401556452527075
-[03Aug2025 01:37:40.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.27514298849791885,-34.51531509731251,0.8392666921536147
-[03Aug2025 01:37:40.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.2710030468583682,-34.84986298692155,0.8385420299209727
-[03Aug2025 01:37:40.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.2667883056737992,-35.182137855490254,0.8380186686281377
-[03Aug2025 01:37:40.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.26250200069762286,-35.5120127827613,0.8377367199936998
-[03Aug2025 01:37:40.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.258143928332629,-35.839364499014835,0.8377399573619186
-[03Aug2025 01:37:40.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.25371125713900256,-36.16407350717424,0.8380768249226094
-[03Aug2025 01:37:40.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.2492012789061846,-36.48602416870111,0.8388009843756663
-[03Aug2025 01:37:40.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.24461131516682144,-36.80510474993892,0.8399730108340009
-[03Aug2025 01:37:40.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.2399389424531364,-37.12120743711952,0.8416594486025133
-[03Aug2025 01:37:40.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.23518187604804552,-37.43422833476538,0.8439339995184127
-[03Aug2025 01:37:40.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.23033826197661256,-37.744067430745474,0.8468778963060686
-[03Aug2025 01:37:40.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.22540673253206478,-38.05062855784672,0.8505812006133056
-[03Aug2025 01:37:40.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.22038657888060698,-38.353819326179575,0.8551416423451883
-[03Aug2025 01:37:40.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.2152778609415691,-38.65355105207959,0.8606642600298073
-[03Aug2025 01:37:40.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.2100815649391734,-38.949738682040135,0.8672624236542106
-[03Aug2025 01:37:40.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.20479924398978255,-39.24230069547659,0.875057348406699
-[03Aug2025 01:37:40.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.1994332010845028,-39.531159016663906,0.8841756575684485
-[03Aug2025 01:37:40.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.05204505043775498,-29.84564987713881,0.4307041174697588
-[03Aug2025 01:37:40.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.0575682317967221,-30.12687984601473,0.44287524285391555
-[03Aug2025 01:37:40.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.06316364139638608,-30.40419152260594,0.4567850234661819
-[03Aug2025 01:37:40.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.06882626029346284,-30.677519568243298,0.47258380955918255
-[03Aug2025 01:37:40.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.07454978636906162,-30.946801561909297,0.4904237908185678
-[03Aug2025 01:37:40.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.08032742329532994,-31.21197790005249,0.5104614147039683
-[03Aug2025 01:37:40.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.08615188424982989,-31.47299167797084,0.5328606167822727
-[03Aug2025 01:37:40.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.09201483949846079,-31.729788599559043,0.5577854512766862
-[03Aug2025 01:37:40.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.09790757425480479,-31.98231686749736,0.5854034072372087
-[03Aug2025 01:37:40.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.10382004551411228,-32.23052708404117,0.6158852294865937
-[03Aug2025 01:37:40.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.10974154964424088,-32.47437215375797,0.649404665986367
-[03Aug2025 01:37:40.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.11565993144404274,-32.713807184264965,0.6861383192072026
-[03Aug2025 01:37:40.300] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.12156232682536938,-32.94878939450771,0.7262654327487326
-[03Aug2025 01:37:40.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.12743505638854913,-33.179278029723974,0.7699677508480818
-[03Aug2025 01:37:40.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.13326390142628952,-33.405234265569874,0.8174233461404583
-[03Aug2025 01:37:40.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.13903308652061241,-33.62662112685325,0.8688187169727826
-[03Aug2025 01:37:40.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.14472604006505208,-33.84340340431467,0.9243424042479091
-[03Aug2025 01:37:40.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.15032536252965656,-34.055547578991366,0.9841848925598242
-[03Aug2025 01:37:40.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.15581332268084225,-34.263021742127194,1.0485384853782307
-[03Aug2025 01:37:40.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.1611702689019694,-34.46579552231023,1.1175972268210899
-[03Aug2025 01:37:40.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.16637571620321978,-34.663840017154996,1.1915567688402007
-[03Aug2025 01:37:40.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.17140959584958182,-34.85712772342549,1.270614283431314
-[03Aug2025 01:37:40.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.17624973220790707,-35.04563247322659,1.3549590945713135
-[03Aug2025 01:37:40.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -0.18087444080492787,-35.22932937184976,1.4447915259233923
-[03Aug2025 01:37:53.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> gg
-[03Aug2025 01:38:50.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Misterchuwa> fg
-[03Aug2025 01:38:51.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
-[03Aug2025 01:38:51.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
-[03Aug2025 01:38:57.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:54732] logged in with entity id 5738 at (-2130.3580791027043, 175.10972595214844, 5149.278822460577)
-[03Aug2025 01:38:57.112] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Misterchuwa
-[03Aug2025 01:38:57.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Misterchuwa
-[03Aug2025 01:38:57.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Misterchuwa
-[03Aug2025 01:38:57.113] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Misterchuwa
-[03Aug2025 01:38:57.115] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Misterchuwa
-[03Aug2025 01:38:57.117] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Misterchuwa
-[03Aug2025 01:38:57.118] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
-[03Aug2025 01:38:57.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
-[03Aug2025 01:39:54.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -1.0807197983590413,-4.1591957824493875E-6,10.04049668337484
-[03Aug2025 01:39:54.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -1.1321089246380325,-4.3482501297376075E-6,10.491883778446208
-[03Aug2025 01:40:59.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
-[03Aug2025 01:41:41.858] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.784 ms. 5487/5648 recipes are parallelized.
-[03Aug2025 01:45:13.807] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
-[03Aug2025 01:45:16.952] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
-[03Aug2025 01:45:17.005] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
-[03Aug2025 01:45:52.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Silverfish
-[03Aug2025 01:46:18.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! 3.198275208580071,4.6260752362476865,-10.038232190537201
-[03Aug2025 01:46:21.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! -6.067119963389814,3.4123407971623863,7.5071970372546275
-[03Aug2025 01:47:07.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! -8.99705224369427,3.169671739195337,-3.7603743758199926
-[03Aug2025 01:47:19.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! 2.0330838195709475,-6.959277788386743,8.151812772932317
-[03Aug2025 01:47:29.101] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! 3.1719269278382853,-1.4456756880737487,-9.823566841341744
-[03Aug2025 01:47:37.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved too quickly! 0.5468499758776488,-10.619108898072867,4.2473655743970085
-[03Aug2025 01:48:56.040] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:64386] logged in with entity id 15366 at (-1912.9733675648174, 229.0, -8645.177250362503)
-[03Aug2025 01:48:56.041] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
-[03Aug2025 01:48:56.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
-[03Aug2025 01:48:56.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
-[03Aug2025 01:48:56.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
-[03Aug2025 01:48:56.044] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
-[03Aug2025 01:48:56.046] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
-[03Aug2025 01:48:56.046] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
-[03Aug2025 01:48:56.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
-[03Aug2025 01:49:38.258] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
-[03Aug2025 01:49:38.267] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
-[03Aug2025 01:50:05.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Deepling Angler
-[03Aug2025 01:50:06.914] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
-[03Aug2025 01:50:36.658] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
-[03Aug2025 01:50:36.666] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
-[03Aug2025 01:51:07.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Silverfish
-[03Aug2025 01:51:40.508] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
-[03Aug2025 01:51:40.517] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
-[03Aug2025 01:52:15.226] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
-[03Aug2025 01:52:22.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Skeleton
-[03Aug2025 01:53:42.111] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
-[03Aug2025 01:53:42.116] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
-[03Aug2025 01:53:48.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa was slain by Silverfish
-[03Aug2025 01:54:24.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:51885] logged in with entity id 22978 at (-1024.439178632119, 124.0, 583.6617278315955)
-[03Aug2025 01:54:24.489] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JAGlitsh
-[03Aug2025 01:54:24.489] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JAGlitsh
-[03Aug2025 01:54:24.490] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JAGlitsh
-[03Aug2025 01:54:24.490] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JAGlitsh
-[03Aug2025 01:54:24.492] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JAGlitsh
-[03Aug2025 01:54:24.493] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JAGlitsh
-[03Aug2025 01:54:24.494] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JAGlitsh
-[03Aug2025 01:54:24.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
-[03Aug2025 01:54:24.904] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
-[03Aug2025 01:56:25.967] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
-[03Aug2025 01:56:25.979] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
-[03Aug2025 01:57:25.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
-[03Aug2025 01:57:30.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3212ms or 64 ticks behind
-[03Aug2025 01:58:08.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 0.9842619678083793,-3.97014129305262E-6,10.197174459950475
-[03Aug2025 01:58:08.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.0263480175481163,-4.15919564034084E-6,10.686831055959374
-[03Aug2025 01:58:08.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.0680540515029406,-4.34824998762906E-6,11.176798267675622
-[03Aug2025 01:58:08.914] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.1093882729460347,-4.53730433491728E-6,11.66706869425252
-[03Aug2025 01:58:08.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.1503655883582269,-4.7263586822055E-6,12.157634586414133
-[03Aug2025 01:58:08.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.1910024456717565,-4.91541302949372E-6,12.6484882400664
-[03Aug2025 01:58:08.916] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.2313120496564807,-5.10446737678194E-6,13.139622290336774
-[03Aug2025 01:58:08.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.2713093433683298,-5.29352172407016E-6,13.631029394705365
-[03Aug2025 01:58:08.925] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.3110105897458197,-5.4825760713583804E-6,14.122702254258002
-[03Aug2025 01:58:08.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.3504332432567026,-5.6716304186466004E-6,14.61463364273095
-[03Aug2025 01:58:08.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.38959562994296,-5.8606847659348205E-6,15.106816419071038
-[03Aug2025 01:58:08.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.4285210958714742,-6.0497391132230405E-6,15.599243258196111
-[03Aug2025 01:58:08.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.4672287052910633,-6.2387934605112605E-6,16.09190728087742
-[03Aug2025 01:58:08.931] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 1.5057380006965104,-6.4278478077994805E-6,16.584801716306174
+[03Aug2025 02:01:07.951] [Server thread/INFO] [coroutil/]: CoroUtil detected Serene Seasons Not Installed for use
+[03Aug2025 02:01:22.183] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[03Aug2025 02:01:22.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Misterchuwa[/100.99.92.13:54849] logged in with entity id 1625 at (-2055.425635550774, 106.51976013183594, 5982.11205758415)
+[03Aug2025 02:01:22.379] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Misterchuwa
+[03Aug2025 02:01:22.380] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Misterchuwa
+[03Aug2025 02:01:22.381] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Misterchuwa
+[03Aug2025 02:01:22.381] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Misterchuwa
+[03Aug2025 02:01:22.387] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Misterchuwa
+[03Aug2025 02:01:22.391] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Misterchuwa
+[03Aug2025 02:01:22.392] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Misterchuwa
+[03Aug2025 02:01:22.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa joined the game
+[03Aug2025 02:01:24.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[03Aug2025 02:01:44.048] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:64548] logged in with entity id 2374 at (-1924.699999988079, 143.0, -8647.699999988079)
+[03Aug2025 02:01:44.051] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
+[03Aug2025 02:01:44.054] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
+[03Aug2025 02:01:44.056] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
+[03Aug2025 02:01:44.057] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
+[03Aug2025 02:01:44.079] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
+[03Aug2025 02:01:44.091] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
+[03Aug2025 02:01:44.091] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
+[03Aug2025 02:01:44.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[03Aug2025 02:01:46.636] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
+[03Aug2025 02:01:52.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 02:02:07.004] [Server thread/WARN] [tombstone/]: The death event of the player elpepe was canceled by another mod
+[03Aug2025 02:02:07.057] [Server thread/INFO] [tombstone/]: The player elpepe has successfully been saved
+[03Aug2025 02:02:15.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe was slain by Skeleton
+[03Aug2025 02:03:05.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 02:03:14.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 02:03:15.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 02:03:16.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 02:03:29.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 8.15933426630454,5.6251139874201925,-1.831766223219347
+[03Aug2025 02:03:36.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JAGlitsh[/100.89.160.39:52053] logged in with entity id 7526 at (-1024.439178632119, 124.0, 583.6617278315955)
+[03Aug2025 02:03:36.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to JAGlitsh
+[03Aug2025 02:03:36.564] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to JAGlitsh
+[03Aug2025 02:03:36.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to JAGlitsh
+[03Aug2025 02:03:36.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to JAGlitsh
+[03Aug2025 02:03:36.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to JAGlitsh
+[03Aug2025 02:03:36.570] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to JAGlitsh
+[03Aug2025 02:03:36.571] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to JAGlitsh
+[03Aug2025 02:03:36.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAGlitsh joined the game
+[03Aug2025 02:03:37.834] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 3.2746199665166387,0.4940540121262842,9.5188967292479
+[03Aug2025 02:03:37.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 3.429090730873668,0.5969766306247521,9.982276434249798
+[03Aug2025 02:03:37.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! 3.5840308209174054,0.714050379976598,10.448738186798437
+[03Aug2025 02:03:49.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JAGlitsh: Teleported elpepe to JAGlitsh]
+[03Aug2025 02:04:19.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 02:04:19.663] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! 9.801617683139398,-2.0999999999998806,-0.06534810029256732
+[03Aug2025 02:04:19.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[03Aug2025 02:04:35.155] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 4.567 ms. 5487/5648 recipes are parallelized.
+[03Aug2025 02:04:48.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JAGlitsh> sexo
+[03Aug2025 02:06:51.601] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1510, y=2, z=6232}
+[03Aug2025 02:07:30.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 02:12:34.883] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 197.6 μs. 249/249 recipes are parallelized.
+[03Aug2025 02:13:11.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 02:14:29.829] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:14:29.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:14:36.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 02:21:16.538] [Server thread/WARN] [tombstone/]: The death event of the player Misterchuwa was canceled by another mod
+[03Aug2025 02:21:16.542] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[03Aug2025 02:21:25.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa burned to death
+[03Aug2025 02:21:26.000] [Server thread/INFO] [tombstone/]: The player Misterchuwa has successfully been saved
+[03Aug2025 02:23:03.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa has reached the goal [Bone Crusher]
+[03Aug2025 02:24:41.826] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:24:41.878] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:24:42.664] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:24:42.691] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:12.326] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:19.728] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:19.786] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:19.787] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:19.787] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:20.529] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:21.237] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:21.238] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:28.279] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:28.340] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:33.377] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:34.077] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:34.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:34.079] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:25:55.528] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:26:30.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:26:30.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:26:30.978] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:26:31.027] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:26:52.274] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:27:54.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 02:28:22.043] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpepe lost connection: Disconnected
+[03Aug2025 02:28:22.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe left the game
+[03Aug2025 02:28:58.630] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:28:58.630] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:03.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:07.886] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:14.177] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:14.590] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:28.727] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:28.879] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:31.476] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:31.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:31.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:31.477] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:32.575] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:35.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.041060210774731,-4.348250314478719E-6,10.24489075942347
+[03Aug2025 02:29:35.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.119600183380726,-4.5373046759777935E-6,10.691231564513146
+[03Aug2025 02:29:35.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.197382360544907,-4.726359037476868E-6,11.137729951614347
+[03Aug2025 02:29:35.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.274415592892865,-4.915413398975943E-6,11.584386901940888
+[03Aug2025 02:29:35.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.3507067655723404,-5.104467760475018E-6,12.031203418580844
+[03Aug2025 02:29:35.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.426265009518147,-5.2935221219740924E-6,12.47817988972929
+[03Aug2025 02:29:35.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.5011057086264827,-5.482576483473167E-6,12.925344361112366
+[03Aug2025 02:29:35.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.5749745698378774,-5.671630844972242E-6,13.37097538478065
+[03Aug2025 02:29:35.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.6475056994120223,-5.860685206471317E-6,13.812571101972935
+[03Aug2025 02:29:35.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.718302680369561,-6.049739567970391E-6,14.24736765959824
+[03Aug2025 02:29:35.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAGlitsh moved too quickly! 8.573412654017716,-1.6999999999999034,4.975217277079651
+[03Aug2025 02:29:35.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.7869855232229384,-6.238793929469466E-6,14.672672827654424
+[03Aug2025 02:29:35.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.853228005519668,-6.427848290968541E-6,15.08611431911686
+[03Aug2025 02:29:35.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.916767810251713,-6.6169026524676156E-6,15.485696698078755
+[03Aug2025 02:29:35.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -2.977407259546908,-6.80595701396669E-6,15.86979665994295
+[03Aug2025 02:29:35.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.035014494985944,-6.995011375465765E-6,16.237216632614945
+[03Aug2025 02:29:35.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.0895096965052744,-7.18406573696484E-6,16.58711965077964
+[03Aug2025 02:29:35.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.140869999454253,-7.3731200984639145E-6,16.919025395134668
+[03Aug2025 02:29:35.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.189113217631302,-7.562174459962989E-6,17.23272237443689
+[03Aug2025 02:29:35.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.2342902680068164,-7.751228821462064E-6,17.528244789857126
+[03Aug2025 02:29:35.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.2764786389632263,-7.940283182961139E-6,17.805822315814112
+[03Aug2025 02:29:35.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.3157776651223685,-8.129337544460213E-6,18.065834122898195
+[03Aug2025 02:29:35.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.3523039853464525,-8.318391905959288E-6,18.308796017871828
+[03Aug2025 02:29:35.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.386182342720076,-8.507446267458363E-6,18.53532036647357
+[03Aug2025 02:29:35.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.417548978340392,-8.696500628957438E-6,18.746106970507753
+[03Aug2025 02:29:35.653] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.446541517772175,-8.885554990456512E-6,18.94187852070354
+[03Aug2025 02:29:35.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.4733003288181408,-9.074609351955587E-6,19.12340739946012
+[03Aug2025 02:29:35.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.497960672852969,-9.263663713454662E-6,19.29145425320985
+[03Aug2025 02:29:35.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.520657163698388,-9.452718074953737E-6,19.446797540160333
+[03Aug2025 02:29:35.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.541521263218783,-9.641772436452811E-6,19.590203288400517
+[03Aug2025 02:29:35.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.560684403981213,-9.830826797951886E-6,19.722454855553224
+[03Aug2025 02:29:35.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.5782645478595896,-1.001988115945096E-5,19.844266129693096
+[03Aug2025 02:29:35.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.5943773515934936,-1.0208935520950035E-5,19.95634444261941
+[03Aug2025 02:29:35.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.6091320926204844,-1.039798988244911E-5,20.059362716496253
+[03Aug2025 02:29:35.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.62263408378044,-1.0587044243948185E-5,20.153991296510867
+[03Aug2025 02:29:35.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.634979722708522,-1.077609860544726E-5,20.24084087711526
+[03Aug2025 02:29:35.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.6462605633078056,-1.0965152966946334E-5,20.32049639674915
+[03Aug2025 02:29:35.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.6565586954238825,-1.1154207328445409E-5,20.393490989230486
+[03Aug2025 02:29:35.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.66595281402374,-1.1343261689944484E-5,20.46033893135609
+[03Aug2025 02:29:35.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2945ms or 58 ticks behind
+[03Aug2025 02:29:35.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -1.712772054567722,-7.3731200984639145E-6,10.722861641073905
+[03Aug2025 02:29:35.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -1.7205764299767452,-7.562174459962989E-6,10.778863699096291
+[03Aug2025 02:29:35.981] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:35.982] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:36.323] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:43.481] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:47.226] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:29:54.125] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:30:16.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gyrodyne (vehicle of Misterchuwa) moved too quickly! -3.444017673629787,-3.970141591480569E-6,9.75609760840598
+[03Aug2025 02:30:44.143] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:31:25.987] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 02:32:59.825] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:32:59.826] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:32:59.826] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:33:12.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpepe[/100.71.192.84:65337] logged in with entity id 27215 at (-1037.763040584882, 64.0, 516.2977764663727)
+[03Aug2025 02:33:12.661] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to elpepe
+[03Aug2025 02:33:12.661] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to elpepe
+[03Aug2025 02:33:12.662] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to elpepe
+[03Aug2025 02:33:12.663] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to elpepe
+[03Aug2025 02:33:12.668] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to elpepe
+[03Aug2025 02:33:12.672] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to elpepe
+[03Aug2025 02:33:12.673] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to elpepe
+[03Aug2025 02:33:12.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpepe joined the game
+[03Aug2025 02:33:12.823] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:33:22.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5122ms or 102 ticks behind
+[03Aug2025 02:34:42.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa moved wrongly!
+[03Aug2025 02:37:16.926] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:37:16.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:37:16.927] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
+[03Aug2025 02:37:16.928] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity fantasyfauna:wisp but it was marked as removed already
