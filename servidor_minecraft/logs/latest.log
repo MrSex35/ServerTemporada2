@@ -1,1 +1,3 @@
 [04Aug2025 00:07:18.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3535ms or 70 ticks behind
+[04Aug2025 00:27:56.052] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Misterchuwa lost connection: Disconnected
+[04Aug2025 00:27:56.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Misterchuwa left the game
